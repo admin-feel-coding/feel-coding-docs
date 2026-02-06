@@ -15,13 +15,13 @@ The framework separates decisions from execution. Each phase is independent, doc
 
 ```mermaid
 graph LR
-    D["Decide\n(Discovery)"] --> E["Execute\n(SDLC)"] --> O["Operate"]
+    D["Decide<br/>(Discovery)"] --> E["Execute<br/>(SDLC)"] --> O["Operate"]
 
-    D -.- D_out["D1 Problem\nD2 Requirements\nD3 Solution shaping\nD4 MVP + Phases\nD5 Estimation\nD6 Proposal-ready"]
+    D -.- D_out["D1 Problem<br/>D2 Requirements<br/>D3 Solution shaping<br/>D4 MVP + Phases<br/>D5 Estimation<br/>D6 Proposal-ready"]
 
-    E -.- E_out["E1 Plan\nE2 Design\nE3 Build\nE4 Test\nE5 Deploy\nE6 Review"]
+    E -.- E_out["E1 Plan<br/>E2 Design<br/>E3 Build<br/>E4 Test<br/>E5 Deploy<br/>E6 Review"]
 
-    O -.- O_out["O1 Monitor\nO2 Fix\nO3 Improve\nO4 Optimize"]
+    O -.- O_out["O1 Monitor<br/>O2 Fix<br/>O3 Improve<br/>O4 Optimize"]
 
     style D fill:#e8f4f8,stroke:#2c3e50,color:#2c3e50
     style E fill:#e8f4f8,stroke:#2c3e50,color:#2c3e50

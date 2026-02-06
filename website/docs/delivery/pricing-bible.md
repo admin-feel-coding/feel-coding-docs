@@ -46,7 +46,7 @@ All projects at Feel Coding follow the [D2E Framework](../framework/d2e.md):
 
 ```mermaid
 graph LR
-    D["Decide\n(Discovery)"] --> E["Execute\n(SDLC)"] --> O["Operate"]
+    D["Decide<br/>(Discovery)"] --> E["Execute<br/>(SDLC)"] --> O["Operate"]
     style D fill:#e8f4f8,stroke:#2c3e50,color:#2c3e50
     style E fill:#e8f4f8,stroke:#2c3e50,color:#2c3e50
     style O fill:#e8f4f8,stroke:#2c3e50,color:#2c3e50
