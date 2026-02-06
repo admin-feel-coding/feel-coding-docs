@@ -1,0 +1,7 @@
+flowchart TD
+    Idea[Client Idea] --> Decide[DECIDE\nDiscovery]
+    Decide -->|Approved| Execute[EXECUTE\nSDLC]
+    Execute --> Operate[OPERATE]
+
+    Decide -->|Rejected| Stop1[Stop]
+    Execute -->|Paused| Stop2[Stop]

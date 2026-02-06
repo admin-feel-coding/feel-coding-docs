@@ -1,0 +1,27 @@
+graph LR
+    D[Decide] --> E[Execute] --> O[Operate]
+
+    D -.- D_out["Outputs:
+    - Decision records
+    - Architecture docs
+    - Scope definition
+    - Project plan"]
+
+    E -.- E_out["Outputs:
+    - Working software
+    - Technical docs
+    - Test coverage
+    - Deployment guides"]
+
+    O -.- O_out["Outputs:
+    - Operational runbooks
+    - Monitoring setup
+    - Incident learnings
+    - Updated documentation"]
+
+    style D fill:#e8f4f8,stroke:#2c3e50,color:#2c3e50
+    style E fill:#e8f4f8,stroke:#2c3e50,color:#2c3e50
+    style O fill:#e8f4f8,stroke:#2c3e50,color:#2c3e50
+    style D_out fill:#fff,stroke:#bdc3c7,color:#2c3e50
+    style E_out fill:#fff,stroke:#bdc3c7,color:#2c3e50
+    style O_out fill:#fff,stroke:#bdc3c7,color:#2c3e50

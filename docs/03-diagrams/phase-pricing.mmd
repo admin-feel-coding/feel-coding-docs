@@ -1,0 +1,12 @@
+flowchart LR
+    P1[Phase A\nDiscovery] --> Gate1{Continue?}
+    Gate1 -->|Yes| P2[Phase B\nScope & Plan]
+    Gate1 -->|No| End1[Stop]
+
+    P2 --> Gate2{Continue?}
+    Gate2 -->|Yes| P3[Phase C\nBuild]
+    Gate2 -->|No| End2[Stop]
+
+    P3 --> Gate3{Continue?}
+    Gate3 -->|Yes| P4[Phase D\nOperate]
+    Gate3 -->|No| End3[Stop]
