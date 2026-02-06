@@ -1,3 +1,8 @@
+---
+sidebar_position: 3
+title: Delivery & Pricing Bible
+---
+
 # Delivery & Pricing Bible
 
 **Version 1.0**
@@ -37,17 +42,19 @@ This is how we protect clients, ourselves, and long-term reputation.
 
 ## 3. The Feel Coding Framework: D2E
 
-All projects at Feel Coding follow the D2E Framework:
+All projects at Feel Coding follow the [D2E Framework](../framework/d2e.md):
 
-```
-DECIDE → EXECUTE → OPERATE
+```mermaid
+graph LR
+    D["Decide\n(Discovery)"] --> E["Execute\n(SDLC)"] --> O["Operate"]
+    style D fill:#e8f4f8,stroke:#2c3e50,color:#2c3e50
+    style E fill:#e8f4f8,stroke:#2c3e50,color:#2c3e50
+    style O fill:#e8f4f8,stroke:#2c3e50,color:#2c3e50
 ```
 
 - **Decide (Discovery)** decides *what* to build and *if* it is worth building.
 - **Execute (SDLC)** builds the agreed solution.
 - **Operate** keeps the system healthy after delivery.
-
-See also: [D2E Framework](../01-frameworks/d2e-framework.md) | [D2E Big Picture](../03-diagrams/d2e-big-picture.mmd).
 
 ---
 
@@ -123,8 +130,6 @@ Discovery **stands alone**:
 
 Both outcomes are valid.
 
-See: [Discovery Flow](../03-diagrams/decide-flow.mmd) | [Discovery Standalone](../03-diagrams/discovery-standalone.mmd).
-
 ---
 
 ## 5. Execute (SDLC phase)
@@ -178,8 +183,6 @@ Plan → Design → Build → Test → Deploy → Review
 - Feedback
 - Decide next phase
 
-See: [SDLC Loop](../03-diagrams/sdlc-loop.mmd).
-
 ---
 
 ## 6. Operate (post-delivery)
@@ -196,8 +199,6 @@ Includes:
 - Performance improvements
 - Cost optimization
 - AI quality improvements (if applicable)
-
-See: [Operate Loop](../03-diagrams/operate-loop.mmd).
 
 ---
 
@@ -226,8 +227,6 @@ This applies to:
 - LATAM clients
 - North American clients
 - Internal or external projects
-
-See: [Phase-Based Pricing](../03-diagrams/phase-pricing.mmd) | [Estimation Ranges](../03-diagrams/estimation-range.mmd).
 
 ---
 
@@ -263,8 +262,6 @@ Anyone joining Feel Coding must:
 - Follow it
 - Respect its boundaries
 
-See: [Solo to Team](../03-diagrams/solo-to-team.mmd).
-
 ---
 
 ## 10. One rule to remember
@@ -283,5 +280,3 @@ FEEL CODING OPERATING MODEL:
 - SDLC executes agreed decisions
 - Trust > speed > volume
 ```
-
-See the full visual map: [D2E Master Model](../03-diagrams/d2e-master.mmd).
