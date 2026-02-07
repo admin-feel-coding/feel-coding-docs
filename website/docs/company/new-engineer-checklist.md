@@ -11,7 +11,7 @@ Use this list to get aligned in your first week. Your first deliverable is under
 
 - Read the [Company Bible](company-bible.md) and note any principles that surprise you.
 - Read the [D2E Framework](../framework/d2e.md) and map each phase to your past experience.
-- Skim the [Delivery & Pricing Bible](../delivery/pricing-bible.md) to understand how we price and gate work.
+- Skim the [Pricing](../delivery/pricing.md) page to understand how we price and gate work.
 
 ## Day 2: Delivery model
 

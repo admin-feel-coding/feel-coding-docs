@@ -18,7 +18,7 @@ If you are new to Feel Coding, follow this reading order:
 
 1. [Company Bible](company/company-bible.md) — how we work, what we value
 2. [D2E Framework](framework/d2e.md) — Decide, Execute, Operate
-3. [Delivery & Pricing Bible](delivery/pricing-bible.md) — how work is packaged and priced
+3. [Pricing](delivery/pricing.md) — how work is packaged and priced
 4. [Engagement Models](company/engagement-models.md) — the four ways we work with clients
 5. [New Engineer Checklist](company/new-engineer-checklist.md) — first-week alignment steps
 

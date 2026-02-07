@@ -33,7 +33,7 @@ const sidebars = {
       type: 'category',
       label: 'Delivery',
       items: [
-        'delivery/pricing-bible',
+        'delivery/pricing',
         'delivery/lifecycle',
         'delivery/standards',
         'delivery/handoff',

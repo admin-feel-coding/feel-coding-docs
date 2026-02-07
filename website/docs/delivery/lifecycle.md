@@ -36,4 +36,4 @@ Formally close the engagement. Archive project materials and capture lessons lea
 - Documentation is updated continuously, not at the end.
 - The client can request a status summary at any point.
 
-See: [Delivery & Pricing Bible](pricing-bible.md) and [D2E Framework](../framework/d2e.md).
+See: [Pricing](pricing.md) and [D2E Framework](../framework/d2e.md).
