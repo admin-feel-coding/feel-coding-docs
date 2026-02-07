@@ -10,7 +10,7 @@ Welcome to the Feel Coding documentation hub.
 
 This wiki contains everything you need to understand how Feel Coding operates — from company principles to delivery frameworks, templates, and reference material.
 
-![Placeholder](/img/placeholder.svg)
+![Feel Coding Globe](/img/Feel_Coding_Notion_Cover_Globe.jpg)
 
 ## Where to start
 
@@ -26,7 +26,7 @@ If you are new to Feel Coding, follow this reading order:
 
 - **Company** — Bible, vision, principles, engagement models, onboarding checklist
 - **Framework** — D2E delivery framework and core principles
-- **Delivery** — Pricing bible, project lifecycle, standards, handoff checklist
+- **Delivery** — Pricing, project lifecycle, standards, handoff checklist
 - **Templates** — Project README, decision record, discovery summary, SDLC phase plan
 - **Reference** — Glossary of terms
 
