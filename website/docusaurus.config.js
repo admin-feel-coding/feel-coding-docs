@@ -83,6 +83,10 @@ const config = {
             label: 'Docs',
           },
           {
+            type: 'localeDropdown',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/admin-feel-coding/feel-coding-docs',
             label: 'GitHub',
             position: 'right',
