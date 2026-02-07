@@ -27,7 +27,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Framework',
-      items: ['framework/d2e', 'framework/principles'],
+      items: ['framework/d2e'],
     },
     {
       type: 'category',
