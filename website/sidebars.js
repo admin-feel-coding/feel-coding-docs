@@ -9,6 +9,11 @@ const sidebars = {
       label: 'Home',
     },
     {
+      type: 'doc',
+      id: 'start-here',
+      label: 'Start Here',
+    },
+    {
       type: 'category',
       label: 'Company',
       items: [
