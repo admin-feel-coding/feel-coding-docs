@@ -10,6 +10,11 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'Company',
+      items: ['company/engagement-models'],
+    },
+    {
+      type: 'category',
       label: 'Framework',
       items: ['framework/d2e', 'framework/principles'],
     },
