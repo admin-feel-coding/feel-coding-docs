@@ -40,171 +40,15 @@ This is how we protect clients, ourselves, and long-term reputation.
 
 ---
 
-## 3. The Feel Coding Framework: D2E
+## 3. D2E Framework reference
 
-All projects at Feel Coding follow the [D2E Framework](../framework/d2e.md):
-
-```mermaid
-graph LR
-    D["Decide<br/>(Discovery)"] --> E["Execute<br/>(SDLC)"] --> O["Operate"]
-    style D fill:#e8f4f8,stroke:#2c3e50,color:#2c3e50
-    style E fill:#e8f4f8,stroke:#2c3e50,color:#2c3e50
-    style O fill:#e8f4f8,stroke:#2c3e50,color:#2c3e50
-```
-
-- **Decide (Discovery)** decides *what* to build and *if* it is worth building.
-- **Execute (SDLC)** builds the agreed solution.
-- **Operate** keeps the system healthy after delivery.
+Delivery follows the D2E Framework. For full detail on Discovery, SDLC, and Operate (including D1-D6 and E1-E6), see [D2E Framework](../framework/d2e.md).
 
 ---
 
-## 4. Decide (Discovery phase)
+## 4. Pricing doctrine
 
-Discovery is a **paid, independent phase**.
-
-Its goal is **clarity and risk reduction**, not commitment to build.
-
-### Discovery always answers
-
-- What problem are we solving?
-- Who is it for?
-- What is the MVP?
-- What are the technical risks?
-- How long and how much to build?
-
-### 4.1 Discovery steps (D1-D6)
-
-**D1 — Problem and outcomes**
-
-- Define the business problem
-- Identify users and decision-makers
-- Define success metrics
-- Identify constraints
-
-**D2 — Requirements**
-
-- Core user flows
-- Roles and permissions
-- Integrations
-- Non-functional requirements (security, performance, scale)
-
-**D3 — Solution shaping**
-
-- High-level architecture
-- Technology tradeoffs (REST vs GraphQL, monolith vs services, etc.)
-- AI/RAG decisions if applicable
-- Top technical risks
-
-**D4 — MVP and phases**
-
-- Define Phase 1 (must-have)
-- Define Phase 2/3 (nice-to-have, optimization)
-- Explicitly define what is out of scope
-
-**D5 — Estimation**
-
-- Hour ranges per phase
-- Identify unknowns and spikes
-- Add buffers for risk
-
-**D6 — Proposal-ready plan**
-
-- Milestones
-- Acceptance criteria
-- Assumptions and exclusions
-- Change-control rules
-
-### 4.2 Discovery outputs
-
-Every Discovery must produce:
-
-- A written Discovery Summary (D1-D6)
-- A high-level architecture sketch
-- A phased roadmap
-- Hour estimates per phase
-
-Discovery **stands alone**:
-
-- Clients may continue with Feel Coding
-- Or use the output elsewhere
-
-Both outcomes are valid.
-
----
-
-## 5. Execute (SDLC phase)
-
-Execution starts **only after Discovery is approved**.
-
-Execution follows a standard SDLC loop:
-
-```
-Plan → Design → Build → Test → Deploy → Review
-```
-
-### 5.1 Execution rules
-
-- Execution is charged per phase, based on estimated hours.
-- Phases are independent.
-- Each phase has:
-  - A goal
-  - An estimated hour range
-  - A review checkpoint
-- No open-ended work without an estimate or cap.
-
-### 5.2 SDLC phases (E1-E6)
-
-**E1 — Plan**
-
-- Break scope into milestones
-- Define tickets and acceptance criteria
-
-**E2 — Design**
-
-- Detailed design for the next slice
-- APIs, data models, infra decisions
-
-**E3 — Build**
-
-- Implementation and integration
-
-**E4 — Test**
-
-- Unit, integration, and sanity testing
-
-**E5 — Deploy**
-
-- Deployment to production
-- Monitoring and rollback readiness
-
-**E6 — Review**
-
-- Demo
-- Feedback
-- Decide next phase
-
----
-
-## 6. Operate (post-delivery)
-
-Operations may be:
-
-- Hourly
-- Or retainer-based
-
-Includes:
-
-- Monitoring
-- Bug fixes
-- Performance improvements
-- Cost optimization
-- AI quality improvements (if applicable)
-
----
-
-## 7. Pricing doctrine
-
-### 7.1 General rules
+### 4.1 General rules
 
 - Discovery is **always paid**.
 - Execution is **hourly or time-boxed**.
@@ -212,7 +56,7 @@ Includes:
 - Estimates are ranges, not promises.
 - Transparency beats precision.
 
-### 7.2 Phase-based pricing model
+### 4.2 Phase-based pricing model
 
 Each phase:
 
@@ -230,7 +74,7 @@ This applies to:
 
 ---
 
-## 8. Client relationship principles
+## 5. Client relationship principles
 
 Feel Coding:
 
@@ -248,7 +92,7 @@ Both are professional outcomes.
 
 ---
 
-## 9. Solo-first, scale-ready
+## 6. Solo-first, scale-ready
 
 This framework is designed to:
 
@@ -264,13 +108,13 @@ Anyone joining Feel Coding must:
 
 ---
 
-## 10. One rule to remember
+## 7. One rule to remember
 
 > If we cannot clearly explain what we are building, we do not build it.
 
 ---
 
-## 11. Canonical summary
+## 8. Canonical summary
 
 ```
 FEEL CODING OPERATING MODEL:
