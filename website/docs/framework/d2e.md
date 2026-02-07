@@ -13,7 +13,7 @@ For the principles that guide how we operate, see [Core Principles](../company/c
 
 > Discovery decides. SDLC executes. Ops stabilizes.
 
-## One-page overview
+## 🧭 One-page overview
 
 ```mermaid
 graph LR
@@ -31,7 +31,7 @@ graph LR
     style O_out fill:#fff,stroke:#bdc3c7,color:#2c3e50
 ```
 
-## How to read the framework
+## ✅ How to read the framework
 
 - **Decide (Discovery)** reduces risk and produces a clear plan.
 - **Execute (SDLC)** builds the agreed solution in phases.
@@ -43,12 +43,12 @@ Each phase is detailed on its own page:
 - [Execute (SDLC)](execute.md)
 - [Operate](operate.md)
 
-## When to use D2E
+## 📌 When to use D2E
 
 - The request is vague or risky.
 - You need to estimate or propose.
 - You want to avoid scope chaos.
 
-## Core rule
+## 🧱 Core rule
 
 Do not start SDLC until Discovery is complete and approved.

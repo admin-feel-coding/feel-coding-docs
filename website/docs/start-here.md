@@ -7,7 +7,7 @@ title: Start Here
 
 New to Feel Coding? Use this reading order to get oriented quickly.
 
-## Recommended reading order
+## 🧭 Recommended reading order
 
 1. [Company Bible](company/company-bible.md) — how we work, what we value, and what must stay true in every engagement.
 2. [D2E Framework](framework/d2e.md) — the delivery model that separates decisions from execution.
@@ -17,7 +17,7 @@ New to Feel Coding? Use this reading order to get oriented quickly.
 6. [New Engineer Checklist](company/new-engineer-checklist.md) — practical steps for first-week alignment.
 7. [Glossary](reference/glossary.md) — definitions of recurring terms.
 
-## How to contribute
+## ✍️ How to contribute
 
 - Use plain language. If a new engineer cannot understand a page quickly, rewrite it.
 - Document decisions. If it is not written down, it did not happen.

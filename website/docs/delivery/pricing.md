@@ -11,7 +11,7 @@ For delivery phases and the D2E structure, see [D2E Framework](../framework/d2e.
 
 ---
 
-## 1. Purpose
+## 1. 🎯 Purpose
 
 Pricing should do three things:
 
@@ -21,7 +21,7 @@ Pricing should do three things:
 
 ---
 
-## 2. Pricing principles
+## 2. ✅ Pricing principles
 
 - Discovery is always paid.
 - Work is scoped in phases and approved before start.
@@ -31,13 +31,13 @@ Pricing should do three things:
 
 ---
 
-## 3. Pricing models map to D2E
+## 3. 🧭 Pricing models map to D2E
 
 We price by phase. Each model matches a D2E stage so clients always know what they are buying.
 
 ---
 
-## 4. Pricing models (by D2E)
+## 4. 📦 Pricing models (by D2E)
 
 ### 4.1 Decide (Discovery) — fixed fee or time-boxed
 
@@ -82,7 +82,7 @@ Rules:
 
 ---
 
-## 5. Estimation and quoting
+## 5. 🔎 Estimation and quoting
 
 Every estimate includes:
 
@@ -94,7 +94,7 @@ If the unknowns are too large, stop and sell Discovery first.
 
 ---
 
-## 6. What every proposal includes
+## 6. 📄 What every proposal includes
 
 - Scope summary.
 - Deliverables by phase.
@@ -105,7 +105,7 @@ If the unknowns are too large, stop and sell Discovery first.
 
 ---
 
-## 7. Change control
+## 7. 🔁 Change control
 
 When scope changes:
 
@@ -115,6 +115,6 @@ When scope changes:
 
 ---
 
-## 8. One rule to remember
+## 8. 🧱 One rule to remember
 
 If we cannot clearly explain what we are building, we do not build it.
