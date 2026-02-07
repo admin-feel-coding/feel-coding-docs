@@ -17,9 +17,9 @@ flowchart LR
 
 ## How execution works
 
-- Work is approved phase by phase.
-- Each phase has an estimate range and a scope cap.
-- Changes trigger a re-estimate.
+- Work is planned and approved phase by phase.
+- Each phase has a clear goal and documented outputs.
+- Review feedback informs the next phase.
 
 ## E1 — Plan
 
