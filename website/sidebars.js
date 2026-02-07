@@ -11,7 +11,13 @@ const sidebars = {
     {
       type: 'category',
       label: 'Company',
-      items: ['company/engagement-models'],
+      items: [
+        'company/engagement-models',
+        'company/company-bible',
+        'company/vision-and-mission',
+        'company/core-principles',
+        'company/new-engineer-checklist',
+      ],
     },
     {
       type: 'category',
@@ -21,7 +27,27 @@ const sidebars = {
     {
       type: 'category',
       label: 'Delivery',
-      items: ['delivery/pricing-bible', 'delivery/standards', 'delivery/handoff'],
+      items: [
+        'delivery/pricing-bible',
+        'delivery/lifecycle',
+        'delivery/standards',
+        'delivery/handoff',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Templates',
+      items: [
+        'templates/project-readme',
+        'templates/decision-record',
+        'templates/discovery-summary',
+        'templates/sdlc-phase-plan',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Reference',
+      items: ['reference/glossary'],
     },
   ],
 };
