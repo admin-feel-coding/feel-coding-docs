@@ -1,10 +1,33 @@
 # D2E Framework
 
-D2E stands for **Decide, Execute, Operate**. It is the delivery framework Feel Coding uses to structure every client engagement.
+**Decide → Execute → Operate**
+
+The **D2E Framework** is the delivery framework Feel Coding uses to structure every client engagement.
+
+**D2E stands for:**
+
+* **Decide** – clarify *what* to build and *why*
+* **Execute** – build and ship working software
+* **Operate** – keep the system stable, efficient, and transferable
+
+The framework **separates decisions from execution**.
+This prevents scope chaos, unclear expectations, and delivery risk.
+
+Each phase is:
+
+* **Independent** — it can stand on its own
+* **Documented** — outputs are written and explicit
+* **Owned by the client** — no lock-in
+
+A client can stop after **any phase** and still keep everything needed to continue with another team.
+
+> **(D) Discovery decides.
+> (E) SDLC executes.
+> (O) Operations stabilizes.**
+
+This structure allows engineers to work with clear constraints and allows clients to understand exactly what they are paying for and what they receive at each step.
 
 The framework separates decisions from execution. Each phase is independent, documented, and produces concrete outputs that the client owns. A client can stop after any phase and still keep everything they need to continue on their own.
-
-> Discovery decides. SDLC executes. Ops stabilizes.
 
 ## Overview
 
@@ -12,10 +35,11 @@ The framework separates decisions from execution. Each phase is independent, doc
 DECIDE (Discovery) → EXECUTE (SDLC) → OPERATE
 ```
 
-| Phase | Primary question | Output focus |
-|---|---|---|
-| **Decide** | What are we building and why? | Clarity, scope, and risk reduction |
-| **Execute** | How do we build it and ship it? | Working software and delivery documentation |
+
+| Phase       | Primary question                        | Output focus                                |
+| ----------- | --------------------------------------- | ------------------------------------------- |
+| **Decide**  | What are we building and why?           | Clarity, scope, and risk reduction          |
+| **Execute** | How do we build it and ship it?         | Working software and delivery documentation |
 | **Operate** | How do we keep it healthy and evolving? | Stability, improvement, and transferability |
 
 Use this framework whenever:
@@ -133,6 +157,7 @@ Staging to production, migrations, monitoring, rollback ready.
 Demo to stakeholders, collect feedback, update backlog, decide next loop.
 
 **Outputs per loop:**
+
 - Working software increment
 - Technical documentation
 - Tests and deployment guidance
@@ -162,6 +187,7 @@ Performance, reliability, UX. If AI: RAG retrieval quality.
 Cost, infrastructure, latency. If AI: model usage and token costs.
 
 **Outputs:**
+
 - Runbooks and operational documentation
 - Monitoring signals and incident learnings
 - Ongoing improvements and cost optimizations
