@@ -71,6 +71,10 @@ const config = {
       },
       navbar: {
         title: 'Feel Coding Wiki',
+        logo: {
+          alt: 'Feel Coding Logo',
+          src: 'img/Feel_Coding_Icon_HD_SQ.jpg',
+        },
         items: [
           {
             type: 'docSidebar',
