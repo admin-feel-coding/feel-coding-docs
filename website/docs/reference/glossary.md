@@ -4,6 +4,7 @@ title: Glossary
 ---
 
 # 📚 Glossary
+Quick definitions for common terms used across this wiki.
 
 Definitions of terms used across Feel Coding documentation.
 

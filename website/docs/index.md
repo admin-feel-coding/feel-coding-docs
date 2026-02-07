@@ -5,6 +5,7 @@ title: Welcome
 ---
 
 # Feel Coding Wiki
+A simple, public guide to how Feel Coding works and delivers software.
 
 Welcome to the Feel Coding documentation hub.
 

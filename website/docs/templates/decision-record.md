@@ -4,6 +4,7 @@ title: Decision Record
 ---
 
 # 🧾 Decision Record Template
+A reusable template you can copy into a project.
 
 Use this template to document significant technical or process decisions.
 

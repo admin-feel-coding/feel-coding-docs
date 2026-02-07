@@ -4,6 +4,7 @@ title: Vision and Mission
 ---
 
 # Vision and Mission
+A short statement of where we are going and why.
 
 ## 🌍 Vision
 

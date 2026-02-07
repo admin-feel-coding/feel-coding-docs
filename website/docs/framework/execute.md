@@ -4,6 +4,7 @@ title: Execute (SDLC)
 ---
 
 # Execute (SDLC)
+What this phase is for and what it produces.
 
 Execution builds the agreed solution in repeatable phases. Each phase has a goal, a scope, and a clear checkpoint.
 

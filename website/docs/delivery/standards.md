@@ -4,6 +4,7 @@ title: Standards
 ---
 
 # Delivery Standards
+A short list of standards we follow in every engagement.
 
 Standards and expectations that apply to every Feel Coding engagement.
 

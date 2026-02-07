@@ -4,6 +4,7 @@ title: Engagement Models
 ---
 
 # 🧭 Engagement Models
+A simple map of how we work with different clients and partners.
 
 **Version 1.0**
 

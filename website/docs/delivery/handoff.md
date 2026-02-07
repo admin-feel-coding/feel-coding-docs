@@ -4,6 +4,7 @@ title: Handoff
 ---
 
 # Handoff Checklist
+A simple checklist to make handoff clear and complete.
 
 How Feel Coding handles the transition of work back to the client or to another team.
 

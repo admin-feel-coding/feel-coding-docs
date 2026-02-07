@@ -4,6 +4,7 @@ title: Core Principles
 ---
 
 # ✅ Core Principles
+A short list of the principles we follow in every engagement.
 
 These principles guide every decision at Feel Coding. They apply to how we build, how we communicate, and how we work with clients.
 

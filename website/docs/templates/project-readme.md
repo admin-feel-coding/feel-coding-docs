@@ -4,6 +4,7 @@ title: Project README
 ---
 
 # 🧩 Project README Template
+A reusable template you can copy into a project.
 
 Use this template as the starting point for any new project's README.
 

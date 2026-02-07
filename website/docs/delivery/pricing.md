@@ -4,6 +4,7 @@ title: Pricing
 ---
 
 # Pricing
+A clear, client-friendly view of how pricing works at Feel Coding.
 
 This page explains how Feel Coding prices work. It is written for both clients and internal teams.
 

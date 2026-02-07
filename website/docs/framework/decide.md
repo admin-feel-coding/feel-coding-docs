@@ -4,6 +4,7 @@ title: Decide (Discovery)
 ---
 
 # Decide (Discovery)
+What this phase is for and what it produces.
 
 Discovery is a paid, standalone phase focused on clarity and risk reduction. It produces the decisions that make execution safe and predictable.
 

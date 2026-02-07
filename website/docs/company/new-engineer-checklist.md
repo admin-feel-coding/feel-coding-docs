@@ -4,6 +4,7 @@ title: New Engineer Checklist
 ---
 
 # New Engineer Checklist
+A simple week-one guide for new team members.
 
 Use this list to get aligned in your first week. Your first deliverable is understanding the delivery model and how we communicate.
 

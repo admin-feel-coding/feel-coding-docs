@@ -4,6 +4,7 @@ title: D2E Framework
 ---
 
 # D2E Framework
+A one-page summary of our delivery framework.
 
 D2E stands for **Decide, Execute, Operate**. It is the delivery framework Feel Coding uses to structure every client engagement.
 

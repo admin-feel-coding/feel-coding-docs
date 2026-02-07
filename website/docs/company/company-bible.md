@@ -4,6 +4,7 @@ title: Company Bible
 ---
 
 # Company Bible
+A clear, public summary of how Feel Coding thinks and works.
 
 This document is the single source of truth for how Feel Coding operates. It defines the principles, expectations, and standards that guide everything we do — internally and with clients.
 

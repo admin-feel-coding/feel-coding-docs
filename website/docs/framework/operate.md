@@ -4,6 +4,7 @@ title: Operate
 ---
 
 # Operate
+What this phase is for and what it produces.
 
 Operate keeps the system healthy after delivery. It is focused on stability, reliability, and continuous improvement.
 

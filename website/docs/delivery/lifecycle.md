@@ -4,6 +4,7 @@ title: Project Lifecycle
 ---
 
 # Project Lifecycle
+A simple view of how a project moves from first contact to completion.
 
 This document describes how a typical project moves from first contact to completion at Feel Coding.
 

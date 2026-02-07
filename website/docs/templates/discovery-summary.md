@@ -4,6 +4,7 @@ title: Discovery Summary
 ---
 
 # 🧭 Discovery Summary Template (D1-D6)
+A reusable template you can copy into a project.
 
 Use this template to document the Decide phase outputs. It should be shareable with the client.
 

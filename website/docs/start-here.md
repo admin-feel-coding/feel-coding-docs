@@ -4,6 +4,7 @@ title: Start Here
 ---
 
 # Start Here
+A quick, friendly guide to get oriented in minutes.
 
 New to Feel Coding? Use this reading order to get oriented quickly.
 
