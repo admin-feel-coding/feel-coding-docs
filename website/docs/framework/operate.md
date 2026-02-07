@@ -7,7 +7,7 @@ title: Operate
 
 Operate keeps the system healthy after delivery. It is focused on stability, reliability, and continuous improvement.
 
-## Operate loop (O1 to O4)
+## 🔁 Operate loop (O1 to O4)
 
 ```mermaid
 flowchart LR
@@ -55,7 +55,7 @@ Outputs:
 - Cost optimization.
 - AI usage tuning (if applicable).
 
-## Engagement options
+## 🤝 Engagement options
 
 Operate is typically hourly or retainer-based with a defined response window.
 

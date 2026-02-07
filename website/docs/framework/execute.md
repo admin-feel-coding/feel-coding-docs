@@ -7,7 +7,7 @@ title: Execute (SDLC)
 
 Execution builds the agreed solution in repeatable phases. Each phase has a goal, a scope, and a clear checkpoint.
 
-## Execution loop (E1 to E6)
+## 🔁 Execution loop (E1 to E6)
 
 ```mermaid
 flowchart LR
@@ -15,7 +15,7 @@ flowchart LR
     E6 --> E1
 ```
 
-## How execution works
+## ✅ How execution works
 
 - Work is planned and approved phase by phase.
 - Each phase has a clear goal and documented outputs.
@@ -80,7 +80,7 @@ Outputs:
 - Backlog updates.
 - Next phase decision.
 
-## Exit criteria
+## 🧱 Exit criteria
 
 Execution ends when the MVP is delivered or the client stops.
 

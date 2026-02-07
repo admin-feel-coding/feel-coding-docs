@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Glossary
 ---
 
-# Glossary
+# 📚 Glossary
 
 Definitions of terms used across Feel Coding documentation.
 

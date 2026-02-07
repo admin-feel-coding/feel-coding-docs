@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Engagement Models
 ---
 
-# Engagement Models
+# 🧭 Engagement Models
 
 **Version 1.0**
 

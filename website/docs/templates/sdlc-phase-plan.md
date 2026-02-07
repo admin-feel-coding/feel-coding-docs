@@ -3,7 +3,7 @@ sidebar_position: 4
 title: SDLC Phase Plan
 ---
 
-# SDLC Phase Plan Template (E1-E6)
+# ✅ SDLC Phase Plan Template (E1-E6)
 
 Use this template to plan and document a single execution phase. Repeat per phase.
 

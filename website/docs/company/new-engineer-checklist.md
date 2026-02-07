@@ -7,24 +7,24 @@ title: New Engineer Checklist
 
 Use this list to get aligned in your first week. Your first deliverable is understanding the delivery model and how we communicate.
 
-## Day 1: Orientation
+## 📅 Day 1: Orientation
 
 - Read the [Company Bible](company-bible.md) and note any principles that surprise you.
 - Read the [D2E Framework](../framework/d2e.md) and map each phase to your past experience.
 - Skim the [Pricing](../delivery/pricing.md) page to understand how we price and gate work.
 
-## Day 2: Delivery model
+## 📅 Day 2: Delivery model
 
 - Read [Project Lifecycle](../delivery/lifecycle.md) and summarize each stage in your own words.
 - Review the [Glossary](../reference/glossary.md) and add any missing terms you notice.
 
-## Day 3: Contribution habits
+## 📅 Day 3: Contribution habits
 
 - Write a short decision record using the [Decision Record Template](../templates/decision-record.md).
 - Draft a Discovery Summary using the [Discovery Summary Template](../templates/discovery-summary.md).
 - Draft a Phase Plan using the [SDLC Phase Plan Template](../templates/sdlc-phase-plan.md).
 
-## By end of week
+## ✅ By end of week
 
 - Be able to explain D1-D6, E1-E6, and O1-O4 without notes.
 - Be able to describe why Discovery is paid and independent.

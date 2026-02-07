@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Project README
 ---
 
-# Project README Template
+# 🧩 Project README Template
 
 Use this template as the starting point for any new project's README.
 

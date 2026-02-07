@@ -7,7 +7,7 @@ title: Project Lifecycle
 
 This document describes how a typical project moves from first contact to completion at Feel Coding.
 
-## Stages
+## 🧭 Stages
 
 ### 1. Discovery (Decide)
 
@@ -29,7 +29,7 @@ At the end of each phase or the full engagement, conduct a structured review. En
 
 Formally close the engagement. Archive project materials and capture lessons learned.
 
-## Principles during delivery
+## ✅ Principles during delivery
 
 - Progress is visible at all times.
 - Blockers are raised within 24 hours.

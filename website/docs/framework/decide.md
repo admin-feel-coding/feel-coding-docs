@@ -7,7 +7,7 @@ title: Decide (Discovery)
 
 Discovery is a paid, standalone phase focused on clarity and risk reduction. It produces the decisions that make execution safe and predictable.
 
-## What Discovery decides
+## 🧭 What Discovery decides
 
 - What problem we are solving.
 - Who the product is for.
@@ -15,7 +15,7 @@ Discovery is a paid, standalone phase focused on clarity and risk reduction. It 
 - What risks exist.
 - What it will take to build.
 
-## D1 to D6 overview
+## 📌 D1 to D6 overview
 
 ```mermaid
 flowchart TB
@@ -87,7 +87,7 @@ Outputs:
 - Assumptions and exclusions.
 - Change-control rule.
 
-## Exit criteria
+## 🧱 Exit criteria
 
 Discovery is complete when:
 

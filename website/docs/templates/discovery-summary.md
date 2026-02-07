@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Discovery Summary
 ---
 
-# Discovery Summary Template (D1-D6)
+# 🧭 Discovery Summary Template (D1-D6)
 
 Use this template to document the Decide phase outputs. It should be shareable with the client.
 

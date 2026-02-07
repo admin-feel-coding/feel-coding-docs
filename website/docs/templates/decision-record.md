@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Decision Record
 ---
 
-# Decision Record Template
+# 🧾 Decision Record Template
 
 Use this template to document significant technical or process decisions.
 
