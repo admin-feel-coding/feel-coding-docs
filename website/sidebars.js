@@ -17,10 +17,10 @@ const sidebars = {
       type: 'category',
       label: 'Company',
       items: [
-        'company/engagement-models',
         'company/company-bible',
         'company/vision-and-mission',
         'company/core-principles',
+        'company/engagement-models',
         'company/new-engineer-checklist',
       ],
     },
