@@ -26,7 +26,7 @@ Pricing should do three things:
 - Discovery is always paid.
 - Work is scoped in phases and approved before start.
 - Estimates are ranges, not promises.
-- No open-ended work without a cap or a checkpoint.
+- Each phase has a clear checkpoint.
 - Transparency beats precision.
 
 ---
@@ -57,8 +57,8 @@ Each phase has its own scope and estimate range. The client approves each phase 
 Rules:
 
 - Every phase has a defined goal.
-- Work stops at the cap unless re-approved.
-- Changes trigger a re-estimate.
+- We agree on a range before work starts.
+- Changes prompt a quick re-alignment and updated estimate.
 
 ### 4.3 Execute (SDLC) — time-boxed sprint (optional)
 
@@ -110,10 +110,8 @@ If the unknowns are too large, stop and sell Discovery first.
 When scope changes:
 
 1. Document the change.
-2. Re-estimate and re-approve.
-3. Update the phase plan.
-
-No informal scope changes.
+2. Re-estimate together.
+3. Update the phase plan and timeline.
 
 ---
 
