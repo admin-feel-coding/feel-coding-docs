@@ -4,47 +4,47 @@ title: Decide (Discovery)
 ---
 
 # Decide (Discovery) 🧭
-**Clarity before building**
+**Clareza antes de construir**
 
-Discovery is a **paid, standalone phase** focused on clarity and risk reduction.
+Discovery é uma **fase paga e standalone** focada em clareza e redução de risco.
 
-Its purpose is to make sure everyone clearly understands **what is being built, why it matters, and what it will take** — before time and budget are committed to execution.
+Seu propósito é garantir que todos entendam claramente **o que será construído, por que importa e o que será necessário** — antes de comprometer tempo e orçamento com a execução.
 
-Discovery produces the decisions that make delivery **safe, predictable, and transparent**.
-
----
-
-## What This Phase Is For
-
-Discovery exists to avoid common project problems such as:
-
-- Building the wrong thing
-- Unclear scope and expectations
-- Budget or timeline surprises
-- Late technical decisions
-- Hidden assumptions
-
-By the end of Discovery, there is a shared understanding between Feel Coding and the client about what will happen next.
+Discovery produz as decisões que tornam a entrega **segura, previsível e transparente**.
 
 ---
 
-## 🧠 What Discovery Decides
+## Para que esta fase serve
 
-During Discovery, we clearly decide:
+Discovery existe para evitar problemas comuns como:
 
-- **What problem we are solving** and why it matters
-- **Who the product is for** and what success looks like
-- **What the MVP is** (and what is not included)
-- **What risks exist**, both technical and delivery-related
-- **What it will take to build**, in terms of effort, phases, and timeline
+- Construir a coisa errada
+- Escopo e expectativas pouco claros
+- Surpresas de orçamento ou timeline
+- Decisões técnicas tardias
+- Premissas ocultas
 
-All decisions are documented and reviewed with the client.
+Ao final do Discovery, há um entendimento compartilhado entre a Feel Coding e o cliente sobre o que acontece a seguir.
 
 ---
 
-## The Discovery Steps (D1–D6)
+## 🧠 O que o Discovery decide
 
-Discovery follows six clear steps. Each step builds on the previous one.
+Durante o Discovery, decidimos com clareza:
+
+- **Qual problema estamos resolvendo** e por que ele importa
+- **Para quem é o produto** e como é o sucesso
+- **Qual é o MVP** (e o que fica de fora)
+- **Quais riscos existem**, técnicos e de delivery
+- **O que será necessário para construir**, em esforço, fases e timeline
+
+Todas as decisões são documentadas e revisadas com o cliente.
+
+---
+
+## Os passos do Discovery (D1–D6)
+
+Discovery segue seis passos claros. Cada passo constrói sobre o anterior.
 
 ```mermaid
 flowchart TB
@@ -57,107 +57,107 @@ flowchart TB
 
 ---
 
-## D1 — Problem and Outcomes
+## D1 — Problema e resultados
 
-**Goal:** Make the request clear and measurable.
+**Objetivo:** Tornar o pedido claro e mensurável.
 
-**We define:**
-- The problem in plain language
-- What success looks like
-- Known constraints (time, budget, compliance, security)
+**Definimos:**
+- O problema em linguagem simples
+- Como é o sucesso
+- Restrições conhecidas (tempo, orçamento, compliance, segurança)
 
 ---
 
-## D2 — Requirements
+## D2 — Requisitos
 
-**Goal:** Define what “done” means.
+**Objetivo:** Definir o que significa “pronto”.
 
-**We define:**
-- Core user flows
-- Roles and permissions
-- Required integrations
-- Non-functional needs (security, performance, scalability)
+**Definimos:**
+- Fluxos principais
+- Papéis e permissões
+- Integrações necessárias
+- Necessidades não funcionais (segurança, performance, escalabilidade)
 
 ---
 
 ## D3 — Solution Shaping
 
-**Goal:** Choose a technical direction and explain tradeoffs.
+**Objetivo:** Escolher uma direção técnica e explicar tradeoffs.
 
-**We define:**
-- A high-level solution approach
-- Key technical decisions
-- Main risks and unknowns
+**Definimos:**
+- Uma abordagem de solução em alto nível
+- Decisões técnicas-chave
+- Principais riscos e unknowns
 
-This ensures there are no hidden technical surprises later.
-
----
-
-## D4 — MVP and Phases
-
-**Goal:** Reduce scope and plan delivery safely.
-
-**We define:**
-- What the MVP includes
-- What is explicitly out of scope
-- What could come later (Phase 2 / Phase 3)
-
-This step protects the project from overbuilding too early.
+Isso garante que não existam surpresas técnicas depois.
 
 ---
 
-## D5 — Estimation
+## D4 — MVP e fases
 
-**Goal:** Provide an honest range, not a fixed promise.
+**Objetivo:** Reduzir escopo e planejar a entrega.
 
-**We define:**
-- Best-case and worst-case estimates
-- Known unknowns and required research (spikes)
-- Risk buffers and assumptions
+**Definimos:**
+- O que o MVP inclui
+- O que está explicitamente fora do escopo
+- O que pode vir depois (Fase 2 / Fase 3)
 
-Estimates are transparent and realistic.
-
----
-
-## D6 — Proposal-Ready Plan
-
-**Goal:** Turn decisions into a clear plan the client can approve.
-
-**We define:**
-- Milestones and acceptance criteria
-- Assumptions and exclusions
-- How scope changes are handled
-
-At this point, the client has a complete, actionable plan.
+Este passo protege o projeto de overbuilding cedo demais.
 
 ---
 
-## What Discovery Produces
+## D5 — Estimativa
 
-By the end of Discovery, the client receives:
+**Objetivo:** Dar uma faixa honesta, não uma promessa fixa.
 
-- Clear problem definition and success criteria
-- A well-defined MVP and phased roadmap
-- Documented technical direction
-- Transparent estimate range
-- A proposal-ready execution plan
+**Definimos:**
+- Estimativas de melhor e pior caso
+- Unknowns e spikes necessários
+- Buffers de risco e premissas
 
-All outputs belong to the client.
-
----
-
-## 🧱 Exit Criteria
-
-Discovery is complete when:
-
-- All decisions from D1 to D6 are documented and agreed
-- The client can confidently move forward:
-  - With Feel Coding, **or**
-  - With another team, using the same materials
-
-Only after this point does execution begin.
+As estimativas são transparentes e realistas.
 
 ---
 
-**Next:** [Execute (SDLC)](execute.md)
+## D6 — Plano pronto para proposta
+
+**Objetivo:** Transformar decisões em um plano claro que o cliente possa aprovar.
+
+**Definimos:**
+- Marcos e critérios de aceitação
+- Premissas e exclusões
+- Como mudanças de escopo são tratadas
+
+Neste ponto, o cliente tem um plano completo e acionável.
+
+---
+
+## O que o Discovery produz
+
+Ao final do Discovery, o cliente recebe:
+
+- Definição clara do problema e critérios de sucesso
+- MVP bem definido e roadmap por fases
+- Direção técnica documentada
+- Faixa de estimativa transparente
+- Plano de execução pronto para proposta
+
+Todos os outputs pertencem ao cliente.
+
+---
+
+## 🧱 Critérios de saída
+
+Discovery está completo quando:
+
+- Todas as decisões de D1 a D6 estão documentadas e acordadas
+- O cliente pode avançar com confiança:
+  - Com a Feel Coding, **ou**
+  - Com outro time, usando os mesmos materiais
+
+Somente depois disso a execução começa.
+
+---
+
+**Próximo:** [Execute (SDLC)](execute.md)
 **Template:** [Decide Template](../templates/decide-template.md)

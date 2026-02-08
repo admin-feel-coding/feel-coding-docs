@@ -1,55 +1,55 @@
 ---
 sidebar_position: 3
-title: Operate Template
+title: Plantilla Operate
 ---
 
-# 🛠️ Operate Template
-A simple checklist for post-delivery support and system health.
+# 🛠️ Plantilla Operate
+Un checklist simple para soporte post-entrega y salud del sistema.
 
-## 0) Operate Snapshot
+## 0) Resumen de Operate
 
-- **Client name:**
-- **System name:**
-- **Date:**
-- **Owner:**
-- **Response window:**
+- **Nombre del cliente:**
+- **Nombre del sistema:**
+- **Fecha:**
+- **Responsable:**
+- **Ventana de respuesta:**
 
 ---
 
 ## Monitor (O1)
 
-- Logs and metrics in place
-- Alerts configured
-- Uptime checks running
+- Logs y métricas en su lugar
+- Alertas configuradas
+- Chequeos de uptime activos
 
 ---
 
 ## Fix (O2)
 
-- Incident workflow defined
-- Known issues tracked
-- Post-mortems recorded (as needed)
+- Flujo de incidentes definido
+- Issues conocidos registrados
+- Post-mortems documentados (cuando aplique)
 
 ---
 
 ## Improve (O3)
 
-- Performance opportunities listed
-- Reliability improvements planned
-- UX or workflow fixes captured
+- Oportunidades de performance listadas
+- Mejoras de confiabilidad planificadas
+- Mejoras de UX o flujo capturadas
 
 ---
 
 ## Optimize (O4)
 
-- Cost hot spots identified
-- Infrastructure tuning plan
-- AI usage tuned (if applicable)
+- Puntos de costo identificados
+- Plan de tuning de infraestructura
+- Tuning de uso/costo de AI (si aplica)
 
 ---
 
-## Monthly summary (optional)
+## Resumen mensual (opcional)
 
-- Summary of work completed
-- Open issues
-- Next priorities
+- Resumen del trabajo completado
+- Issues abiertos
+- Próximas prioridades

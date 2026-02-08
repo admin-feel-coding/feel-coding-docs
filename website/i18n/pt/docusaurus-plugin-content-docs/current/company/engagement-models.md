@@ -1,195 +1,195 @@
 ---
 sidebar_position: 1
-title: Engagement Models
+title: Modelos de Relacionamento
 ---
 
-# 🧭 Engagement Models
-A simple map of how we work with different clients and partners.
+# 🧭 Modelos de Relacionamento
+Um mapa simples de como trabalhamos com diferentes clientes e parceiros.
 
-**Version 1.0**
-
----
-
-## 1. 🎯 Purpose of this document
-
-This document defines the **engagement models** under which Feel Coding operates.
-
-It exists to:
-
-- Support different client types without changing the framework
-- Maintain clarity, boundaries, and sustainability
-- Avoid improvisation or emotional decisions
-
-This document answers the question:
-
-> "In what ways does Feel Coding work with people and companies?"
+**Versão 1.0**
 
 ---
 
-## 2. 🧱 Core rule (applies to all models)
+## 1. 🎯 Propósito deste documento
 
-> Feel Coding uses one framework (D2E), but multiple engagement models.
+Este documento define os **modelos de relacionamento** sob os quais a Feel Coding opera.
 
-- The framework never changes
-- The relationship model changes
-- Scope, pricing, and depth adapt — principles do not
+Ele existe para:
+
+- Suportar diferentes tipos de clientes sem mudar o framework
+- Manter clareza, limites e sustentabilidade
+- Evitar improvisação ou decisões emocionais
+
+Este documento responde à pergunta:
+
+> "De que formas a Feel Coding trabalha com pessoas e empresas?"
 
 ---
 
-## 3. 🗂️ Engagement model overview
+## 2. 🧱 Regra central (aplica a todos os modelos)
 
-Feel Coding operates under four official engagement models:
+> A Feel Coding usa um único framework (D2E), mas múltiplos modelos de relacionamento.
 
-| Model | Name | Typical client |
+- O framework nunca muda
+- O modelo de relacionamento muda
+- Escopo, preço e profundidade se adaptam — princípios não
+
+---
+
+## 3. 🗂️ Visão geral dos modelos
+
+A Feel Coding opera com quatro modelos oficiais:
+
+| Modelo | Nome | Cliente típico |
 |---|---|---|
-| **A** | Client Delivery (Standard) | SMEs, corporates, funded startups |
-| **B** | Individual / Idea-Driven | Solo founders, non-technical individuals |
-| **C** | Startup / Founder Partnership | Pre-seed startups, early teams |
-| **D** | Productized / Exploratory | Internal or public-facing tools |
+| **A** | Entrega ao Cliente (Padrão) | PMEs, corporativos, startups financiadas |
+| **B** | Individual / Idea-Driven | Founders solo, pessoas não técnicas |
+| **C** | Startup / Founder Partnership | Startups pre-seed, times iniciais |
+| **D** | Productizado / Exploratório | Ferramentas internas ou públicas |
 
-Each model has a clear purpose, explicit boundaries, applies D2E differently, and can be accepted or declined deliberately.
+Cada modelo tem propósito claro, limites explícitos, aplica D2E de forma diferente e pode ser aceito ou recusado deliberadamente.
 
 ---
 
-## 4. Model A — Client Delivery (Standard)
+## 4. Modelo A — Entrega ao Cliente (Padrão)
 
-Traditional **client-service provider** relationship with an established company.
+Relação tradicional **cliente-prestador** com empresa estabelecida.
 
-**Typical clients:** SMEs, corporates, funded startups with structure, international clients (LATAM, North America, Europe).
+**Clientes típicos:** PMEs, corporativos, startups com estrutura, clientes internacionais (LATAM, América do Norte, Europa).
 
-**Payment model:**
+**Modelo de pagamento:**
 
-- Discovery (D): Paid, fixed or time-boxed
-- Execution (E): Hourly or milestone-based
-- Operations (O): Optional, hourly or retainer
+- Discovery (D): Pago, fixo ou time-boxed
+- Execution (E): Por hora ou por marcos
+- Operate (O): Opcional, por hora ou retainer
 
-**How D2E applies:**
+**Como D2E se aplica:**
 
-- D: Full Discovery (D1-D6)
-- E: Full SDLC execution
-- O: Optional post-delivery
+- D: Discovery completo (D1-D6)
+- E: Execução SDLC completa
+- O: Pós-entrega opcional
 
-**Rules:**
+**Regras:**
 
-- Discovery is never free
-- Phases are independent
-- Documentation is mandatory
-- Scope changes follow change-control rules
+- Discovery nunca é gratuito
+- Fases são independentes
+- Documentação é obrigatória
+- Mudanças de escopo seguem o controle de mudanças
 
-:::info Doctrine
-This is the **default** and most stable engagement model.
+:::info Doutrina
+Este é o modelo **padrão** e mais estável.
 :::
 
 ---
 
-## 5. Model B — Individual / Idea-Driven Engagement
+## 5. Modelo B — Individual / Idea-Driven
 
-Engagement with **individuals or informal teams** who have ideas but no formal company or structure.
+Relacionamento com **indivíduos ou times informais** que têm ideias mas não uma empresa formal ou estrutura.
 
-**Typical clients:** Solo founders, non-technical individuals, freelancers with an idea, early concept creators.
+**Clientes típicos:** Founders solo, pessoas não técnicas, freelancers com uma ideia, criadores em estágio inicial.
 
-**Payment model:**
+**Modelo de pagamento:**
 
-- Discovery (D): Mini Discovery (D1-D3), paid
-- Execution (E): Small, time-boxed, hourly
-- Operations (O): Usually none
+- Discovery (D): Mini Discovery (D1-D3), pago
+- Execution (E): Pequeno, time-boxed, por hora
+- Operate (O): Normalmente nenhum
 
-**How D2E applies:**
+**Como D2E se aplica:**
 
-- D: Reduced depth, focus on clarity and feasibility
-- E: Small, carefully scoped execution
-- O: Rare or unnecessary
+- D: Menor profundidade, foco em clareza e viabilidade
+- E: Execução pequena e bem escopada
+- O: Raro ou desnecessário
 
-**Rules:**
+**Regras:**
 
-- Scope is aggressively reduced
-- Overbuilding is avoided
-- No long-term commitments
-- Clear limits are enforced
+- Escopo é reduzido agressivamente
+- Evitar overbuilding
+- Sem compromissos de longo prazo
+- Limites claros são aplicados
 
-:::info Doctrine
-Feel Coding helps **clarify**, not **carry** unstructured ideas.
+:::info Doutrina
+A Feel Coding ajuda a **clarificar**, não a **carregar** ideias desorganizadas.
 :::
 
 ---
 
-## 6. Model C — Startup / Founder Partnership
+## 6. Modelo C — Startup / Founder Partnership
 
-A **selective partnership** with early-stage founders or startups where Feel Coding may act as technical partner, advisor, or early technical lead.
+Uma **parceria seletiva** com founders ou startups iniciais onde a Feel Coding pode atuar como parceira técnica, consultora ou líder técnica inicial.
 
-**Typical clients:** Pre-seed startups, solo founders with strong vision, early teams without technical leadership.
+**Clientes típicos:** Startups pre-seed, founders com visão forte, times iniciais sem liderança técnica.
 
-**Payment model:**
+**Modelo de pagamento:**
 
-- Mixed: partial cash, deferred payment, equity or upside (optional, not default)
+- Misto: parte em dinheiro, pagamento diferido, equity ou upside (opcional, não padrão)
 
-**How D2E applies:**
+**Como D2E se aplica:**
 
-- D: Lightweight or partially unpaid (case-by-case)
-- E: Selective milestones only
-- O: Usually postponed
+- D: Leve ou parcialmente não pago (caso a caso)
+- E: Marcos seletivos
+- O: Geralmente postergado
 
-**Rules:**
+**Regras:**
 
-- This model is optional and selective
-- Feel Coding is not obligated to accept partnership work
-- Equity or free work is never automatic
-- Clear exit conditions must exist
+- Este modelo é opcional e seletivo
+- A Feel Coding não é obrigada a aceitar trabalho em parceria
+- Equity ou trabalho gratuito nunca é automático
+- Devem existir condições claras de saída
 
-**Selection criteria:** Strategic alignment exists, trust exists, long-term value outweighs short-term cost, risk is consciously accepted.
+**Critérios de seleção:** Alinhamento estratégico, confiança, valor de longo prazo maior que o custo de curto prazo, risco aceito conscientemente.
 
-:::info Doctrine
-Partnership is a **choice**, not a favor.
+:::info Doutrina
+Parceria é uma **escolha**, não um favor.
 :::
 
 ---
 
-## 7. Model D — Productized / Exploratory Work
+## 7. Modelo D — Trabalho Productizado / Exploratório
 
-Internal or public-facing work created by Feel Coding for learning, signaling expertise, market exploration, or future leverage.
+Trabalho interno ou público criado pela Feel Coding para aprendizado, sinalização de expertise, exploração de mercado ou alavancagem futura.
 
-**Typical examples:** Free tools, generators, templates, demos, internal experiments, open-source or semi-open tools.
+**Exemplos típicos:** ferramentas gratuitas, geradores, templates, demos, experimentos internos, open-source ou semi-open.
 
-**Payment model:** Free, low-cost, or indirect (marketing, credibility, learning).
+**Modelo de pagamento:** Gratuito, baixo custo ou indireto (marketing, credibilidade, aprendizado).
 
-**How D2E applies:**
+**Como D2E se aplica:**
 
-- D: Internal decisions
-- E: Internal execution
-- O: Optional
+- D: Decisões internas
+- E: Execução interna
+- O: Opcional
 
-**Rules:**
+**Regras:**
 
-- Must have a clear purpose
-- Must not drain core delivery capacity
-- Must align with long-term positioning
+- Deve ter propósito claro
+- Não deve drenar capacidade de delivery
+- Deve alinhar com posicionamento de longo prazo
 
-:::info Doctrine
-Productized work exists to **create leverage**, not distraction.
+:::info Doutrina
+Trabalho productizado existe para **criar alavancagem**, não distração.
 :::
 
 ---
 
-## 8. ✅ Cross-model principles (non-negotiable)
+## 8. ✅ Princípios transversais (não negociáveis)
 
-These principles apply to **all** engagement models.
+Estes princípios se aplicam a **todos** os modelos:
 
-**Phase independence** — Every phase must deliver standalone value, be documented, and allow the client to stop or continue freely.
+**Independência por fases** — cada fase entrega valor por si só, é documentada e permite que o cliente pare ou continue livremente.
 
-**Transparency over lock-in** — Feel Coding never hides knowledge, creates artificial dependency, or withholds documentation.
+**Transparência acima de lock-in** — a Feel Coding nunca esconde conhecimento, cria dependência artificial ou retém documentação.
 
-**Sustainability first** — No engagement model is allowed to compromise time, energy, or focus.
+**Sustentabilidade primeiro** — nenhum modelo pode comprometer tempo, energia ou foco.
 
-**Best option, not only option** — Feel Coding aims to remain the best choice, not the only choice.
+**Melhor opção, não a única** — buscamos ser a melhor escolha, não a única.
 
 ---
 
-## 9. 🔒 Decision authority
+## 9. 🔒 Autoridade de decisão
 
-Feel Coding reserves the right to:
+A Feel Coding se reserva o direito de:
 
-- Choose the engagement model
-- Decline projects that don't fit any model
-- Transition between models if circumstances change
+- Escolher o modelo de relacionamento
+- Recusar projetos que não se encaixem em nenhum modelo
+- Transitar entre modelos se as circunstâncias mudarem
 
-This authority is exercised deliberately and without apology.
+Essa autoridade é exercida de forma deliberada e sem desculpas.

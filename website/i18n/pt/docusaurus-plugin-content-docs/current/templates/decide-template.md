@@ -1,98 +1,98 @@
 ---
 sidebar_position: 1
-title: Decide Template
+title: Template Decide
 ---
 
-# 🧭 Decide Template
-A reusable template for Discovery that is clear, complete, and client-friendly.
+# 🧭 Template Decide
+Um template reutilizável para Discovery, claro, completo e amigável para clientes.
 
-## 0) Project Snapshot
+## 0) Resumo do projeto
 
-- **Client name:**
-- **Project name:**
-- **Date:**
+- **Nome do cliente:**
+- **Nome do projeto:**
+- **Data:**
 - **Stakeholders:**
-- **Decision owner:**
+- **Responsável pela decisão:**
 
 ---
 
-## D1 — Problem & Outcomes
+## D1 — Problema e Resultados
 
-**Business problem (1–2 sentences)**
+**Problema de negócio (1–2 frases)**
 
-> What is broken / slow / expensive today?
+> O que está quebrado / lento / caro hoje?
 
-**Users**
+**Usuários**
 
-- Primary user:
-- Secondary user (if any):
+- Usuário principal:
+- Usuário secundário (se houver):
 
-**Success looks like**
+**Sucesso parece com**
 
-- Metric 1:
-- Metric 2:
-- Qualitative signal (e.g. “support tickets drop”):
+- Métrica 1:
+- Métrica 2:
+- Sinal qualitativo (ex. “tickets de suporte caem”):
 
-**Constraints**
+**Restrições**
 
-- Time:
-- Budget:
-- Security / compliance:
-- Other:
+- Tempo:
+- Orçamento:
+- Segurança / compliance:
+- Outros:
 
 ---
 
-## D2 — Requirements (MVP level)
+## D2 — Requisitos (nível MVP)
 
-### Core user flows (happy path)
+### Fluxos principais (happy path)
 
 1.
 2.
 3.
 
-### Roles & permissions
+### Papéis e permissões
 
-- Role A:
-- Role B:
+- Papel A:
+- Papel B:
 
-### Integrations
+### Integrações
 
-- System:
-- System:
+- Sistema:
+- Sistema:
 
-### Non-functional requirements
+### Requisitos não funcionais
 
 - Performance:
-- Availability:
-- Security:
-- Data / compliance:
-- Scale assumptions:
+- Disponibilidade:
+- Segurança:
+- Dados / compliance:
+- Suposições de escala:
 
 ---
 
-## D3 — Solution Shaping (High-Level)
+## D3 — Solution Shaping (alto nível)
 
-### Architecture (sketch referenced)
+### Arquitetura (referência ao sketch)
 
-- Style: Monolith / Modular / Services
-- API: REST / GraphQL (why)
-- Sync vs Async decisions:
+- Estilo: Monolito / Modular / Serviços
+- API: REST / GraphQL (por quê)
+- Decisões Sync vs Async:
 - Data stores:
-- External services:
+- Serviços externos:
 
-### AI (if applicable)
+### AI (se aplicável)
 
-- RAG / fine-tuning / hybrid:
-- Data sources:
-- Expected answer quality:
-- Guardrails / citations:
+- RAG / fine-tuning / híbrido:
+- Fontes de dados:
+- Qualidade esperada da resposta:
+- Guardrails / citações:
 
-### Key tradeoffs
+### Tradeoffs chave
 
 - Tradeoff 1:
 - Tradeoff 2:
 
-### Top risks
+### Principais riscos
 
 1.
 2.
@@ -100,83 +100,83 @@ A reusable template for Discovery that is clear, complete, and client-friendly.
 
 ---
 
-## D4 — MVP & Phases
+## D4 — MVP e Fases
 
-### Phase 1 — MVP (must-have)
+### Fase 1 — MVP (must-have)
 
-- Feature:
-- Feature:
-- Feature:
+- Funcionalidade:
+- Funcionalidade:
+- Funcionalidade:
 
-👉 MVP is successful when:
+👉 O MVP é bem-sucedido quando:
 
-- Condition:
-
----
-
-### Phase 2 — Nice-to-have
-
-- Feature:
-- Feature:
+- Condição:
 
 ---
 
-### Phase 3 — Optimization / Scale
+### Fase 2 — Nice-to-have
 
-- Feature:
-- Feature:
+- Funcionalidade:
+- Funcionalidade:
 
 ---
 
-## D5 — Estimation & Unknowns
+### Fase 3 — Otimização / Escala
 
-### Time estimate (range)
+- Funcionalidade:
+- Funcionalidade:
 
-- Best case:
-- Likely:
-- Worst case:
+---
 
-### Unknowns / spikes needed
+## D5 — Estimativa e Desconhecidos
+
+### Estimativa de tempo (faixa)
+
+- Melhor caso:
+- Provável:
+- Pior caso:
+
+### Desconhecidos / spikes necessários
 
 - Spike:
 - Spike:
 
-### Assumptions
+### Premissas
 
-- Assumption:
-- Assumption:
+- Premissa:
+- Premissa:
 
 ---
 
-## D6 — Delivery Plan (Proposal-Ready)
+## D6 — Plano de entrega (pronto para proposta)
 
-### Milestones
+### Marcos
 
-1. Milestone:
-    - Outcome:
-2. Milestone:
-    - Outcome:
+1. Marco:
+    - Resultado:
+2. Marco:
+    - Resultado:
 
-### Acceptance criteria
+### Critérios de aceitação
 
-- Criteria:
-- Criteria:
+- Critério:
+- Critério:
 
-### Out of scope
+### Fora de escopo
 
 - Item:
 - Item:
 
-### Change control
+### Controle de mudanças
 
-> Any change to scope, assumptions, or constraints may impact timeline and cost and will be reviewed before implementation.
+> Qualquer mudança de escopo, premissas ou restrições pode impactar prazo e custo e será revisada antes da implementação.
 
 ---
 
 ## Decision Gate
 
-☐ Approved to proceed to build (SDLC)
+☐ Aprovado para seguir para build (SDLC)
 
-☐ Requires adjustments
+☐ Requer ajustes
 
-☐ Stop / rethink
+☐ Parar / repensar

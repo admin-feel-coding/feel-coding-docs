@@ -4,45 +4,45 @@ title: Operate
 ---
 
 # Operate ⚙️
-**Keeping systems healthy over time**
+**Mantener sistemas saludables en el tiempo**
 
-Operate is the phase focused on **running, maintaining, and improving** the system after delivery.
+Operate es la fase enfocada en **operar, mantener y mejorar** el sistema después de la entrega.
 
-Its purpose is to keep the software **stable, reliable, and efficient** as it is used in the real world.
-Operate ensures the system continues to perform well and remains easy to manage.
-
----
-
-## What This Phase Is For
-
-Operate exists to:
-
-- Detect issues early
-- Resolve problems quickly
-- Improve performance and reliability over time
-- Control operational and infrastructure costs
-
-Operate is not about new features.
-It is about keeping what was built **working well**.
+Su propósito es mantener el software **estable, confiable y eficiente** en el uso real.
+Operate asegura que el sistema siga funcionando bien y sea fácil de administrar.
 
 ---
 
-## How Operate Works ✅
+## Para qué es esta fase
 
-Operate follows a continuous cycle:
+Operate existe para:
 
-- Monitor the system in real usage
-- Fix issues and incidents
-- Improve reliability and performance
-- Optimize costs and efficiency
+- Detectar issues temprano
+- Resolver problemas rápidamente
+- Mejorar performance y confiabilidad con el tiempo
+- Controlar costos operativos e infraestructura
 
-This cycle repeats as long as the system is in use.
+Operate no es sobre nuevas features.
+Es sobre mantener lo construido **funcionando bien**.
 
 ---
 
-## The Operate Steps (O1–O4)
+## Cómo funciona Operate ✅
 
-Each step has a clear purpose and produces documented outputs.
+Operate sigue un ciclo continuo:
+
+- Monitorear el sistema en uso real
+- Corregir issues e incidentes
+- Mejorar confiabilidad y performance
+- Optimizar costos y eficiencia
+
+Este ciclo se repite mientras el sistema esté en uso.
+
+---
+
+## Los pasos de Operate (O1–O4)
+
+Cada paso tiene un propósito claro y produce outputs documentados.
 
 ```mermaid
 flowchart LR
@@ -54,80 +54,80 @@ flowchart LR
 
 ## O1 — Monitor
 
-**Goal:** See issues before users do.
+**Objetivo:** Ver issues antes que los usuarios.
 
-**We focus on:**
-- Logs, metrics, and basic tracing
-- Uptime and alerting
-- Quality signals (including AI quality, if applicable)
+**Nos enfocamos en:**
+- Logs, métricas y trazas básicas
+- Uptime y alertas
+- Señales de calidad (incluyendo calidad de AI si aplica)
 
-Monitoring provides visibility into how the system behaves in production.
+El monitoreo da visibilidad de cómo se comporta el sistema en producción.
 
 ---
 
 ## O2 — Fix
 
-**Goal:** Resolve incidents and prevent repeat issues.
+**Objetivo:** Resolver incidentes y evitar repeticiones.
 
-**We deliver:**
-- Bug and incident fixes
-- Incident summaries or post-mortems (when needed)
-- Documented recovery steps
+**Entregamos:**
+- Fixes de bugs e incidentes
+- Resúmenes o post-mortems (cuando corresponde)
+- Pasos de recuperación documentados
 
-Fixes are handled deliberately, not reactively.
+Los fixes se manejan de forma deliberada, no reactiva.
 
 ---
 
 ## O3 — Improve
 
-**Goal:** Make the system better over time.
+**Objetivo:** Hacer el sistema mejor con el tiempo.
 
-**We deliver:**
-- Performance improvements
-- Reliability and stability enhancements
-- UX or workflow improvements based on real usage
+**Entregamos:**
+- Mejoras de performance
+- Mejoras de confiabilidad y estabilidad
+- Mejoras de UX o flujo basadas en uso real
 
-Improvements are guided by real data, not guesswork.
+Las mejoras se guían por datos reales, no suposiciones.
 
 ---
 
 ## O4 — Optimize
 
-**Goal:** Reduce cost and waste without harming quality.
+**Objetivo:** Reducir costos y desperdicio sin afectar la calidad.
 
-**We deliver:**
-- Infrastructure tuning
-- Cost and resource optimization
-- AI usage and cost tuning (if applicable)
+**Entregamos:**
+- Tuning de infraestructura
+- Optimización de costo y recursos
+- Tuning de uso/costo de AI (si aplica)
 
-Optimization ensures the system remains sustainable as it scales.
-
----
-
-## What Operate Produces
-
-By engaging in Operate, clients receive:
-
-- A stable and monitored system
-- Faster incident response and recovery
-- Continuous improvements based on real usage
-- Better cost control over time
-- Clear operational documentation
-
-All operational knowledge is documented and shared with the client.
+La optimización mantiene el sistema sostenible al escalar.
 
 ---
 
-## 🤝 Engagement Options
+## Qué produce Operate
 
-Operate is optional and typically provided as:
+Al trabajar en Operate, los clientes reciben:
 
-- Hourly support, or
-- A retainer with a defined response window
+- Un sistema estable y monitoreado
+- Respuesta y recuperación más rápida ante incidentes
+- Mejoras continuas basadas en uso real
+- Mejor control de costos en el tiempo
+- Documentación operativa clara
 
-The engagement model is agreed in advance and can be adjusted as needs change.
+Todo el conocimiento operativo se documenta y se comparte con el cliente.
 
 ---
 
-**Next:** [Pricing](../delivery/pricing.md)
-**Template:** [Operate Template](../templates/operate-template.md)
+## 🤝 Opciones de engagement
+
+Operate es opcional y normalmente se ofrece como:
+
+- Soporte por hora, o
+- Retainer con ventana de respuesta definida
+
+El modelo se acuerda por adelantado y puede ajustarse según cambien las necesidades.
+
+---
+
+**Siguiente:** [Precios](../delivery/pricing.md)
+**Plantilla:** [Operate Template](../templates/operate-template.md)

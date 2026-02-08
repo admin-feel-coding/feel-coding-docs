@@ -1,62 +1,62 @@
 ---
 sidebar_position: 2
-title: Company Bible
+title: Biblia de la Empresa
 ---
 
-# Company Bible
-A clear, public summary of how Feel Coding thinks and works.
+# Biblia de la Empresa
+Un resumen público y claro de cómo piensa y trabaja Feel Coding.
 
-This document is the single source of truth for how Feel Coding operates. It defines the principles, expectations, and standards that guide everything we do — internally and with clients.
+Este documento es la fuente de verdad sobre cómo opera Feel Coding. Define los principios, expectativas y estándares que guían todo lo que hacemos, internamente y con clientes.
 
-If something contradicts this document, this document wins.
+Si algo contradice este documento, este documento gana.
 
-## ✅ Core principles
+## ✅ Principios fundamentales
 
-### Clarity over cleverness
+### Claridad sobre ingenio
 
-We write things down. We explain decisions. We avoid jargon when plain language works. If someone new joins a project and cannot understand it within a reasonable amount of time, we have failed at documentation — not them.
+Escribimos las cosas. Explicamos decisiones. Evitamos jerga cuando el lenguaje simple funciona. Si alguien nuevo se une a un proyecto y no puede entenderlo en un tiempo razonable, fallamos en la documentación, no ellos.
 
-### Ownership is non-negotiable
+### La responsabilidad no es negociable
 
-Every task, document, decision, and deliverable has a clear owner. Ownership means you are responsible for the outcome, not just the activity. If something is unclear, the owner is responsible for making it clear.
+Cada tarea, documento, decisión y entregable tiene un responsable claro. Ser responsable significa responder por el resultado, no solo por la actividad. Si algo es confuso, el responsable debe hacerlo claro.
 
-### Documentation is a deliverable
+### La documentación es un entregable
 
-Documentation is not an afterthought. It is part of the work. A feature without documentation is not complete. A decision without a written record did not happen.
+La documentación no es un extra. Es parte del trabajo. Una funcionalidad sin documentación no está completa. Una decisión sin registro escrito no ocurrió.
 
-### Trust through transparency
+### Confianza a través de transparencia
 
-We build trust by being visible. Clients see our work as it happens. Teams share progress openly. Problems are raised early, not hidden. We do not surprise people.
+Construimos confianza siendo visibles. Los clientes ven nuestro trabajo mientras ocurre. Los equipos comparten avances abiertamente. Los problemas se levantan temprano, no se esconden. No sorprendemos a nadie.
 
-### Simplicity by default
+### Simplicidad por defecto
 
-We choose the simplest approach that solves the problem. We do not add complexity for the sake of sophistication. Every layer of abstraction must earn its place.
+Elegimos la solución más simple que resuelve el problema. No agregamos complejidad por sofisticación. Cada capa de abstracción debe ganarse su lugar.
 
-### Independence over dependency
+### Independencia sobre dependencia
 
-We leave clients able to continue without us. We build capability, not reliance.
+Dejamos a los clientes capaces de continuar sin nosotros. Construimos capacidad, no dependencia.
 
-### Feedback is a gift
+### La retroalimentación es un regalo
 
-We give feedback directly and respectfully. We receive it with openness.
+Damos feedback de forma directa y respetuosa. Lo recibimos con apertura.
 
-## 🧭 How we work
+## 🧭 Cómo trabajamos
 
-- We communicate in writing as the primary medium. Meetings support written decisions, not replace them.
-- We use structured frameworks to deliver projects. These are documented and shared with clients from day one.
-- We leave every engagement in a state where the client can continue without us.
-- We version and maintain our documentation the same way we version code.
+- Nos comunicamos por escrito como medio principal. Las reuniones apoyan las decisiones escritas, no las reemplazan.
+- Usamos frameworks estructurados para entregar proyectos. Se documentan y se comparten con los clientes desde el día uno.
+- Dejamos cada engagement en un estado donde el cliente puede continuar sin nosotros.
+- Versionamos y mantenemos la documentación igual que el código.
 
-## 🤝 How we treat clients
+## 🤝 Cómo tratamos a los clientes
 
-- Clients own everything we produce for them.
-- We explain what we are doing and why, in terms they understand.
-- We do not create dependency. We create capability.
-- We are honest about what we know and what we do not know.
+- Los clientes son dueños de todo lo que producimos para ellos.
+- Explicamos lo que hacemos y por qué, en términos que entienden.
+- No creamos dependencia. Creamos capacidad.
+- Somos honestos sobre lo que sabemos y lo que no sabemos.
 
-## 🧑‍🤝‍🧑 How we treat each other
+## 🧑‍🤝‍🧑 Cómo nos tratamos entre nosotros
 
-- We give direct, respectful feedback.
-- We assume good intent.
-- We ask for help early.
-- We share what we learn.
+- Damos feedback directo y respetuoso.
+- Asumimos buena intención.
+- Pedimos ayuda temprano.
+- Compartimos lo que aprendemos.

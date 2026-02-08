@@ -3,33 +3,33 @@ sidebar_position: 2
 title: Handoff
 ---
 
-# Handoff Checklist
-A simple checklist to make handoff clear and complete.
+# Checklist de Handoff
+Un checklist simple para que el handoff sea claro y completo.
 
-How Feel Coding handles the transition of work back to the client or to another team.
+Cómo Feel Coding realiza la transición del trabajo al cliente u otro equipo.
 
-## ✅ Principles
+## ✅ Principios
 
-- The client must be able to continue without us from the moment we leave.
-- All knowledge must be written down, not carried in people's heads.
-- Handover is a process, not a single event.
+- El cliente debe poder continuar sin nosotros desde el momento en que nos vamos.
+- Todo conocimiento debe estar escrito, no en la cabeza de las personas.
+- El handoff es un proceso, no un evento único.
 
 ## 📋 Checklist
 
-- [ ] All source code is in the client's repository under their control
-- [ ] Technical documentation is complete and up to date
-- [ ] Architecture decisions are recorded with context and reasoning
-- [ ] Deployment and operational procedures are documented
-- [ ] Access credentials and environment configurations are transferred
-- [ ] Open issues and known limitations are documented
-- [ ] A walkthrough session has been conducted with the receiving team
-- [ ] The client confirms they have everything they need
+- [ ] Todo el código fuente está en el repositorio del cliente bajo su control
+- [ ] La documentación técnica está completa y actualizada
+- [ ] Las decisiones de arquitectura están registradas con contexto y razonamiento
+- [ ] Los procedimientos de despliegue y operación están documentados
+- [ ] Credenciales de acceso y configuraciones de entorno están transferidas
+- [ ] Issues abiertos y limitaciones conocidas están documentadas
+- [ ] Se realizó una sesión de walkthrough con el equipo receptor
+- [ ] El cliente confirma que tiene todo lo necesario
 
-## 🧱 Exit criteria
+## 🧱 Criterios de salida
 
-An engagement is considered complete when:
+Un engagement se considera completo cuando:
 
-1. All agreed deliverables have been produced and accepted.
-2. The handover checklist is fully satisfied.
-3. The client confirms readiness to continue independently.
-4. A retrospective has been conducted and documented.
+1. Todos los entregables acordados fueron producidos y aceptados.
+2. El checklist de handoff está completo.
+3. El cliente confirma estar listo para continuar de forma independiente.
+4. Se realizó y documentó una retrospectiva.

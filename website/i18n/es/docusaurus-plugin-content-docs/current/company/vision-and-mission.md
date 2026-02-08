@@ -1,15 +1,15 @@
 ---
 sidebar_position: 3
-title: Vision and Mission
+title: Visión y Misión
 ---
 
-# Vision and Mission
-A short statement of where we are going and why.
+# Visión y Misión
+Una declaración corta de hacia dónde vamos y por qué.
 
-## 🌍 Vision
+## 🌍 Visión
 
-A world where every software project is understandable, maintainable, and owned by the people it serves.
+Un mundo donde cada proyecto de software es entendible, mantenible y propiedad de las personas a quienes sirve.
 
-## 🎯 Mission
+## 🎯 Misión
 
-Feel Coding helps teams build software that is clear, well-documented, and designed for long-term independence. We work alongside our clients — not above them — to deliver technology they fully understand and control.
+Feel Coding ayuda a los equipos a construir software claro, bien documentado y diseñado para la independencia a largo plazo. Trabajamos junto a nuestros clientes, no por encima de ellos, para entregar tecnología que entienden y controlan.

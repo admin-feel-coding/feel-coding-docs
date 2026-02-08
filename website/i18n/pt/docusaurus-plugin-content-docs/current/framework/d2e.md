@@ -1,72 +1,72 @@
 ---
 sidebar_position: 1
-title: D2E Framework
+title: Framework D2E
 ---
 
 # D2E Framework 🧭
 
-**A clear, phase-based delivery model**
+**Um modelo de entrega claro e por fases**
 
-The **D2E Framework (Decide → Execute → Operate)** is the delivery framework Feel Coding uses to structure **every client engagement**.
+O **D2E Framework (Decide → Execute → Operate)** é o framework de delivery que a Feel Coding usa para estruturar **todo engagement com clientes**.
 
-It exists to bring **clarity, predictability, and ownership** to software projects — especially when requirements are complex, evolving, or initially unclear.
+Ele existe para trazer **clareza, previsibilidade e ownership** a projetos de software — especialmente quando requisitos são complexos, evolutivos ou pouco claros no início.
 
-For the principles that guide how we operate, see [Company Bible](../company/company-bible.md).
-
----
-
-## What D2E Means
-
-**D2E stands for:**
-
-- **Decide** — clarify *what* to build and *why*
-- **Execute** — build and ship the agreed solution
-- **Operate** — keep the system stable, efficient, and transferable
-
-The framework is built on a simple but strict rule:
-
-> **Decisions come before execution.**
-
-By separating decision-making from implementation, D2E prevents scope confusion, unclear expectations, and delivery risk.
+Para os princípios que guiam como operamos, veja [Bíblia da Empresa](../company/company-bible.md).
 
 ---
 
-## How the Framework Works
+## O que D2E significa
 
-Each D2E phase is:
+**D2E significa:**
 
-- **Independent** — it can stand on its own
-- **Documented** — outputs are written and explicit
-- **Owned by the client** — no vendor lock-in
+- **Decide** — esclarecer *o que* construir e *por quê*
+- **Execute** — construir e entregar a solução acordada
+- **Operate** — manter o sistema estável, eficiente e transferível
 
-A client can stop after **any phase** and still keep everything needed to continue with another team.
+O framework é baseado em uma regra simples e rígida:
 
-This protects clients while allowing engineers to work with clear constraints.
+> **Decisões vêm antes da execução.**
+
+Separar decisões de implementação evita confusão de escopo, expectativas pouco claras e risco de entrega.
 
 ---
 
-## The Three Phases at a Glance
+## Como o framework funciona
+
+Cada fase D2E é:
+
+- **Independente** — pode se sustentar sozinha
+- **Documentada** — outputs são escritos e explícitos
+- **De propriedade do cliente** — sem lock-in de fornecedor
+
+Um cliente pode parar após **qualquer fase** e ainda manter tudo o que precisa para continuar com outro time.
+
+Isso protege clientes e permite que engenheiros trabalhem com limites claros.
+
+---
+
+## As três fases em resumo
 
 ### 🧠 Decide (Discovery)
 
-Discovery is a **paid, standalone phase** focused on clarity and risk reduction.
+Discovery é uma **fase paga e standalone** focada em clareza e redução de risco.
 
-Its goal is to answer:
+Seu objetivo é responder:
 
-- What problem are we solving?
-- What does success look like?
-- What should be built now — and what should wait?
-- What are the risks, tradeoffs, and constraints?
+- Qual problema estamos resolvendo?
+- Como é o sucesso?
+- O que deve ser feito agora e o que deve esperar?
+- Quais são os riscos, tradeoffs e restrições?
 
-**Discovery decides.**
+**Discovery decide.**
 
 ---
 
 ### 🛠️ Execute (SDLC)
 
-Execution turns approved decisions into working software.
+Execution transforma decisões aprovadas em software funcionando.
 
-It follows a structured SDLC loop:
+Segue um loop SDLC estruturado:
 
 - Plan
 - Design
@@ -75,30 +75,30 @@ It follows a structured SDLC loop:
 - Deploy
 - Review
 
-Execution does **not** redefine scope — it implements what Discovery already agreed on.
+Execution **não redefine escopo** — implementa o que foi acordado no Discovery.
 
-**SDLC executes.**
+**SDLC executa.**
 
 ---
 
 ### ⚙️ Operate
 
-Operate keeps the delivered system healthy after launch.
+Operate mantém o sistema saudável após o lançamento.
 
-It focuses on:
+Foca em:
 
-- Monitoring and reliability
-- Fixing issues and incidents
-- Continuous improvement
-- Cost and performance optimization
+- Monitoramento e confiabilidade
+- Correção de issues e incidentes
+- Melhoria contínua
+- Otimização de custos e performance
 
-Operate is optional and can be hourly or retainer-based.
+Operate é opcional e pode ser por hora ou retainer.
 
-**Ops stabilizes.**
+**Ops estabiliza.**
 
 ---
 
-## One-Page Overview 📄
+## Resumo em uma página 📄
 
 ```mermaid
 graph LR
@@ -116,25 +116,25 @@ graph LR
     style O_out fill:#fff,stroke:#bdc3c7,color:#2c3e50
 ```
 
-## How to Read the Framework ✅
+## Como ler o framework ✅
 
-- **Decide** reduces risk and produces a clear, shared plan
-- **Execute** builds the agreed solution in controlled phases
-- **Operate** keeps the system healthy after delivery
+- **Decide** reduz risco e produz um plano claro e compartilhado
+- **Execute** constrói a solução acordada em fases controladas
+- **Operate** mantém o sistema saudável após a entrega
 
-Across all phases:
+Ao longo de todas as fases:
 
-- Each phase stands on its own
-- Each phase produces documented outputs
-- All outputs belong to the client
+- Cada fase se sustenta sozinha
+- Cada fase produz outputs documentados
+- Todos os outputs pertencem ao cliente
 
-Each phase is explained in detail on its own page:
+Cada fase é explicada em detalhes em sua própria página:
 
 - [Decide (Discovery)](decide.md)
 - [Execute (SDLC)](execute.md)
 - [Operate](operate.md)
 
-Each phase also has a matching template to ensure consistency:
+Cada fase também tem um template correspondente:
 
 - [Decide Template](../templates/decide-template.md)
 - [Execute Template](../templates/execute-template.md)
@@ -142,27 +142,27 @@ Each phase also has a matching template to ensure consistency:
 
 ---
 
-## When to Use D2E 📌
+## Quando usar D2E 📌
 
-Use the D2E framework when:
+Use o framework D2E quando:
 
-- The request is vague, complex, or risky
-- You need to estimate or prepare a proposal
-- You want to avoid scope creep and surprises
-- You care about long-term maintainability and ownership
+- O pedido é vago, complexo ou arriscado
+- Você precisa estimar ou preparar uma proposta
+- Você quer evitar scope creep e surpresas
+- Você se importa com manutenção e ownership de longo prazo
 
-In practice: **almost always**.
+Na prática: **quase sempre**.
 
 ---
 
-## Core Rule 🧱
+## Regra central 🧱
 
-> **Do not start SDLC until Discovery is complete and approved.**
+> **Não inicie o SDLC até que o Discovery esteja completo e aprovado.**
 
-If D1–D6 do not exist and are not agreed on, you are still in Discovery.
+Se D1–D6 não existirem e não estiverem acordados, você ainda está em Discovery.
 
-This rule protects:
+Esta regra protege:
 
-- Clients from unclear scope and cost overruns
-- Engineers from changing goals mid-build
-- Projects from avoidable failure
+- Clientes de escopo pouco claro e custos extras
+- Engenheiros de metas que mudam no meio do build
+- Projetos de falhas evitáveis

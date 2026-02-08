@@ -95,10 +95,6 @@ const config = {
       },
       footer: {
         style: 'dark',
-        logo: {
-          alt: 'Feel Coding',
-          src: 'img/Feel_Coding_Letterhead_Header_SQ.jpg',
-        },
         links: [
           {
             title: 'Documentation',

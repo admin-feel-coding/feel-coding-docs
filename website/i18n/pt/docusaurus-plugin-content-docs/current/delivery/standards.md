@@ -1,28 +1,28 @@
 ---
 sidebar_position: 1
-title: Standards
+title: Padrões
 ---
 
-# Delivery Standards
-A short list of standards we follow in every engagement.
+# Padrões de Delivery
+Uma lista curta de padrões que seguimos em todo engagement.
 
-Standards and expectations that apply to every Feel Coding engagement.
+Padrões e expectativas que se aplicam a todo engagement da Feel Coding.
 
-## 💬 Communication
+## 💬 Comunicação
 
-- Progress is visible at all times.
-- Blockers are raised within 24 hours.
-- Documentation is updated continuously, not at the end.
-- The client can request a status summary at any point.
+- O progresso é visível o tempo todo.
+- Bloqueios são levantados em até 24 horas.
+- A documentação é atualizada continuamente, não no final.
+- O cliente pode pedir um resumo de status a qualquer momento.
 
-## 📝 Documentation
+## 📝 Documentação
 
-- Every decision is recorded with context and reasoning.
-- Technical documentation is maintained alongside the code.
-- Handover materials are prepared incrementally, not as a last step.
+- Cada decisão é registrada com contexto e racional.
+- A documentação técnica é mantida junto com o código.
+- Materiais de handoff são preparados de forma incremental, não no fim.
 
-## ✅ Quality
+## ✅ Qualidade
 
-- Code is reviewed before it is merged.
-- Tests cover critical paths.
-- Deployments are repeatable and documented.
+- O código é revisado antes do merge.
+- Os testes cobrem caminhos críticos.
+- Deploys são repetíveis e documentados.

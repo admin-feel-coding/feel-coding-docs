@@ -12,7 +12,6 @@ Definitions of terms used across Feel Coding documentation.
 |---|---|
 | **D2E** | Decide, Execute, Operate — the delivery framework used by Feel Coding. See [D2E Framework](../framework/d2e.md). |
 | **Decision gate** | The point where Discovery outputs are reviewed and approved before SDLC begins. |
-| **Decision record** | A written document capturing a significant decision, its context, options considered, and the reasoning behind the choice made. |
 | **Deliverable** | A concrete output of work — code, documentation, a diagram, a plan — that is handed to the client. |
 | **Discovery** | The paid, standalone Decide phase where the problem, scope, risks, and estimates are defined. |
 | **Handover** | The structured process of transferring work, knowledge, and ownership from Feel Coding to the client or another team. |

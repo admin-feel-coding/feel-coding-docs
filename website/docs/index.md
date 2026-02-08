@@ -11,8 +11,6 @@ Welcome to the Feel Coding documentation hub.
 
 This wiki contains everything you need to understand how Feel Coding operates — from company principles to delivery frameworks, templates, and reference material.
 
-![Feel Coding Globe](/img/Feel_Coding_Notion_Cover_Globe.jpg)
-
 ## 🧭 Where to start
 
 If you are new to Feel Coding, follow this reading order:

@@ -4,45 +4,45 @@ title: Execute (SDLC)
 ---
 
 # Execute (SDLC) 🛠️
-**Building what was agreed**
+**Construyendo lo acordado**
 
-Execution is the phase where the solution defined in Discovery is **built and delivered**.
+Ejecución es la fase donde la solución definida en Discovery se **construye y entrega**.
 
-Its purpose is to turn clear decisions into **working software**, in a controlled and predictable way.
-Execution does not redefine scope — it implements what was already agreed.
-
----
-
-## What This Phase Is For
-
-Execution exists to:
-
-- Build the agreed solution step by step
-- Reduce delivery risk through small, reviewable increments
-- Keep progress visible and predictable
-- Ensure quality before release
-
-Work is organized into **repeatable phases**, each with a clear goal and checkpoint.
+Su propósito es convertir decisiones claras en **software funcionando**, de forma controlada y predecible.
+Ejecución no redefine alcance — implementa lo ya acordado.
 
 ---
 
-## How Execution Works ✅
+## Para qué es esta fase
 
-During Execution:
+Ejecución existe para:
 
-- Work is planned **one phase at a time**
-- Each phase has a clear scope and goal
-- Progress is reviewed before moving forward
-- Feedback informs the next phase
+- Construir la solución acordada paso a paso
+- Reducir riesgo de delivery con incrementos pequeños y revisables
+- Mantener el progreso visible y predecible
+- Asegurar calidad antes de liberar
 
-This approach avoids surprises and keeps both the client and the team aligned.
+El trabajo se organiza en **fases repetibles**, cada una con un objetivo y checkpoint claro.
 
 ---
 
-## The Execution Steps (E1–E6)
+## Cómo funciona Ejecución ✅
 
-Execution follows a simple, repeatable loop.
-Each step produces concrete, documented outputs.
+Durante Ejecución:
+
+- El trabajo se planifica **una fase a la vez**
+- Cada fase tiene alcance y objetivo claros
+- El progreso se revisa antes de avanzar
+- El feedback informa la siguiente fase
+
+Este enfoque evita sorpresas y mantiene alineados al cliente y al equipo.
+
+---
+
+## Los pasos de Ejecución (E1–E6)
+
+Ejecución sigue un loop simple y repetible.
+Cada paso produce outputs concretos y documentados.
 
 ```mermaid
 flowchart LR
@@ -54,106 +54,106 @@ flowchart LR
 
 ## E1 — Plan
 
-**Goal:** Define the next slice of work clearly.
+**Objetivo:** Definir claramente el siguiente slice de trabajo.
 
-**We define:**
-- The goal of the next phase or sprint
-- Tasks or tickets with acceptance criteria
-- Updated risks or dependencies
+**Definimos:**
+- El objetivo de la siguiente fase o sprint
+- Tareas o tickets con criterios de aceptación
+- Riesgos o dependencias actualizados
 
-This ensures everyone knows what is being worked on next.
+Esto asegura que todos sepan qué se trabajará.
 
 ---
 
 ## E2 — Design
 
-**Goal:** Make the solution ready to build.
+**Objetivo:** Dejar la solución lista para construir.
 
-**We define:**
-- API contracts or interfaces
-- Data model or schema changes
-- Infrastructure or integration decisions
+**Definimos:**
+- Contratos o interfaces de API
+- Cambios en modelo de datos o schema
+- Decisiones de infraestructura o integraciones
 
-Design decisions are documented before implementation begins.
+Las decisiones de diseño se documentan antes de implementar.
 
 ---
 
 ## E3 — Build
 
-**Goal:** Implement the agreed scope.
+**Objetivo:** Implementar el alcance acordado.
 
-**We deliver:**
-- Working code
-- Updated technical documentation
-- Infrastructure changes (if required)
+**Entregamos:**
+- Código funcionando
+- Documentación técnica actualizada
+- Cambios de infraestructura (si aplica)
 
-Build work follows the approved plan from earlier steps.
+El build sigue el plan aprobado en pasos anteriores.
 
 ---
 
 ## E4 — Test
 
-**Goal:** Validate behavior before release.
+**Objetivo:** Validar comportamiento antes de liberar.
 
-**We perform:**
-- Unit and integration tests
-- Targeted end-to-end checks
-- Basic security and stability checks
+**Realizamos:**
+- Tests unitarios y de integración
+- Checks end-to-end focalizados
+- Checks básicos de seguridad y estabilidad
 
-This step reduces the risk of issues reaching production.
+Este paso reduce el riesgo de issues en producción.
 
 ---
 
 ## E5 — Deploy
 
-**Goal:** Release safely.
+**Objetivo:** Liberar de forma segura.
 
-**We ensure:**
-- Production deployment is completed
-- Monitoring is in place
-- Rollback options are ready if needed
+**Aseguramos:**
+- Despliegue a producción
+- Monitoreo en su lugar
+- Opciones de rollback listas si es necesario
 
-Releases are deliberate and controlled.
+Los releases son deliberados y controlados.
 
 ---
 
 ## E6 — Review
 
-**Goal:** Close the loop and decide what comes next.
+**Objetivo:** Cerrar el loop y decidir lo siguiente.
 
-**We deliver:**
-- A demo or review of what was built
-- Collected feedback
-- Updated backlog and priorities
-- A decision on the next phase
+**Entregamos:**
+- Demo o review de lo construido
+- Feedback recolectado
+- Backlog y prioridades actualizados
+- Decisión sobre la siguiente fase
 
-Nothing moves forward without review.
-
----
-
-## What Execution Produces
-
-By the end of Execution, the client receives:
-
-- Working software increments
-- Clear documentation of what was built
-- Test coverage and deployment guidance
-- A transparent record of decisions and changes
-
-Progress is always visible and understandable.
+Nada avanza sin revisión.
 
 ---
 
-## 🧱 Exit Criteria
+## Qué produce Ejecución
 
-Execution ends when:
+Al final de Ejecución, el cliente recibe:
 
-- The agreed MVP has been delivered, **or**
-- The client chooses to stop
+- Incrementos de software funcionando
+- Documentación clara de lo construido
+- Cobertura de tests y guía de despliegue
+- Registro transparente de decisiones y cambios
 
-At any point, the client keeps all delivered work and documentation.
+El progreso siempre es visible y entendible.
 
 ---
 
-**Next:** [Operate](operate.md)
-**Template:** [Execute Template](../templates/execute-template.md)
+## 🧱 Criterios de salida
+
+Ejecución termina cuando:
+
+- El MVP acordado fue entregado, **o**
+- El cliente decide detenerse
+
+En cualquier momento, el cliente mantiene todo lo entregado y documentado.
+
+---
+
+**Siguiente:** [Operate](operate.md)
+**Plantilla:** [Execute Template](../templates/execute-template.md)

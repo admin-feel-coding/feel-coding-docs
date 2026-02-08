@@ -1,25 +1,22 @@
 ---
 sidebar_position: 1
-title: Glossary
+title: Glossário
 ---
 
-# 📚 Glossary
-Quick definitions for common terms used across this wiki.
+# 📚 Glossário
+Definições de termos usados na documentação da Feel Coding.
 
-Definitions of terms used across Feel Coding documentation.
-
-| Term | Definition |
+| Termo | Definição |
 |---|---|
-| **D2E** | Decide, Execute, Operate — the delivery framework used by Feel Coding. See [D2E Framework](../framework/d2e.md). |
-| **Decision gate** | The point where Discovery outputs are reviewed and approved before SDLC begins. |
-| **Decision record** | A written document capturing a significant decision, its context, options considered, and the reasoning behind the choice made. |
-| **Deliverable** | A concrete output of work — code, documentation, a diagram, a plan — that is handed to the client. |
-| **Discovery** | The paid, standalone Decide phase where the problem, scope, risks, and estimates are defined. |
-| **Handover** | The structured process of transferring work, knowledge, and ownership from Feel Coding to the client or another team. |
-| **MVP** | Minimum viable product — the smallest valuable version of a solution that can be delivered. |
-| **Owner** | The person responsible for the outcome of a task, decision, or deliverable. Not just the person doing the work, but the person accountable for it being done well. |
-| **Operate** | The post-delivery phase focused on monitoring, fixes, improvement, and optimization. |
-| **Phase** | One of the three stages in the D2E framework: Decide, Execute, or Operate. |
-| **Runbook** | A step-by-step guide for performing a specific operational task, such as deploying the application or responding to an incident. |
-| **SDLC** | Software development life cycle — the Plan, Design, Build, Test, Deploy, Review loop used in Execute. |
-| **Scope** | The agreed boundaries of an engagement — what is included, what is excluded, and what the expected outputs are. |
+| **D2E** | Decide, Execute, Operate — o framework de delivery usado pela Feel Coding. Ver [D2E Framework](../framework/d2e.md). |
+| **Decision gate** | O ponto em que os outputs de Discovery são revisados e aprovados antes de iniciar o SDLC. |
+| **Deliverable** | Um output concreto de trabalho — código, documentação, um diagrama, um plano — entregue ao cliente. |
+| **Discovery** | Fase Decide paga e independente onde problema, escopo, riscos e estimativas são definidos. |
+| **Handover** | Processo estruturado de transferência de trabalho, conhecimento e ownership da Feel Coding para o cliente ou outro time. |
+| **MVP** | Minimum viable product — a menor versão valiosa que pode ser entregue. |
+| **Owner** | Pessoa responsável pelo resultado de uma tarefa, decisão ou entregável. Não apenas quem faz o trabalho, mas quem responde pela qualidade. |
+| **Operate** | Fase pós-entrega focada em monitorar, corrigir, melhorar e otimizar. |
+| **Phase** | Uma das três fases do D2E: Decide, Execute ou Operate. |
+| **Runbook** | Guia passo a passo para uma tarefa operacional específica, como deploy ou resposta a incidente. |
+| **SDLC** | Software development life cycle — o loop Plan, Design, Build, Test, Deploy, Review usado em Execute. |
+| **Scope** | Os limites acordados de um engagement — o que está incluído, o que está excluído e quais outputs são esperados. |

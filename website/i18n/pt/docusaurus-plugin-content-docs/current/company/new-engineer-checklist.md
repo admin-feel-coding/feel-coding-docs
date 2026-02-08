@@ -1,34 +1,34 @@
 ---
 sidebar_position: 5
-title: New Engineer Checklist
+title: Checklist para Novos Engenheiros
 ---
 
-# New Engineer Checklist
-A simple week-one guide for new team members.
+# Checklist para Novos Engenheiros
+Um guia simples da primeira semana para novos membros do time.
 
-Use this list to get aligned in your first week. Your first deliverable is understanding the delivery model and how we communicate.
+Use esta lista para se alinhar na primeira semana. Seu primeiro entregável é entender o modelo de entrega e como nos comunicamos.
 
-## 📅 Day 1: Orientation
+## 📅 Dia 1: Orientação
 
-- Read the [Company Bible](company-bible.md) and note any principles that surprise you.
-- Read the [D2E Framework](../framework/d2e.md) and map each phase to your past experience.
-- Skim the [Pricing](../delivery/pricing.md) page to understand how we price and gate work.
+- Leia a [Bíblia da Empresa](company-bible.md) e anote quaisquer princípios que te surpreendam.
+- Leia o [Framework D2E](../framework/d2e.md) e relacione cada fase com sua experiência anterior.
+- Revise a página de [Preços](../delivery/pricing.md) para entender como cobramos e aprovamos o trabalho.
 
-## 📅 Day 2: Delivery model
+## 📅 Dia 2: Modelo de entrega
 
-- Read the [D2E Framework](../framework/d2e.md) and summarize each phase in your own words.
-- Review the [Glossary](../reference/glossary.md) and add any missing terms you notice.
+- Leia o [Framework D2E](../framework/d2e.md) e resuma cada fase com suas próprias palavras.
+- Revise o [Glossário](../reference/glossary.md) e adicione termos que estejam faltando.
 
-## 📅 Day 3: Contribution habits
+## 📅 Dia 3: Hábitos de contribuição
 
-- Draft a Discovery Summary using the [Decide Template](../templates/decide-template.md).
-- Draft a Phase Plan using the [Execute Template](../templates/execute-template.md).
-- Review the [Operate Template](../templates/operate-template.md).
+- Escreva um Discovery Summary usando o [Decide Template](../templates/decide-template.md).
+- Escreva um Phase Plan usando o [Execute Template](../templates/execute-template.md).
+- Revise o [Operate Template](../templates/operate-template.md).
 
-## ✅ By end of week
+## ✅ Até o fim da semana
 
-- Be able to explain D1-D6, E1-E6, and O1-O4 without notes.
-- Be able to describe why Discovery is paid and independent.
-- Be able to describe how phase-based pricing protects both sides.
+- Ser capaz de explicar D1-D6, E1-E6 e O1-O4 sem notas.
+- Ser capaz de explicar por que Discovery é pago e independente.
+- Ser capaz de explicar como o preço por fases protege ambos os lados.
 
-If any document is unclear, update it. Clarity is part of the job.
+Se algum documento estiver confuso, atualize. Clareza é parte do trabalho.

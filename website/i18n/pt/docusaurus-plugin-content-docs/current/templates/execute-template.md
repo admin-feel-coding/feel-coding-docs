@@ -1,34 +1,34 @@
 ---
 sidebar_position: 2
-title: Execute Template
+title: Template Execute
 ---
 
-# ✅ Execute Template
-A lightweight template for planning one execution phase in a client-friendly way.
+# ✅ Template Execute
+Um template leve para planejar uma fase de execução de forma clara e amigável.
 
-## 0) Phase Snapshot
+## 0) Resumo da fase
 
-- **Project name:**
-- **Phase name:**
-- **Date:**
-- **Owner:**
-
----
-
-## Goal
-
-What are we trying to achieve in this phase?
+- **Nome do projeto:**
+- **Nome da fase:**
+- **Data:**
+- **Responsável:**
 
 ---
 
-## Scope
+## Objetivo
 
-**In scope**
+O que queremos alcançar nesta fase?
+
+---
+
+## Escopo
+
+**Em escopo**
 
 - Item:
 - Item:
 
-**Out of scope**
+**Fora de escopo**
 
 - Item:
 - Item:
@@ -37,44 +37,44 @@ What are we trying to achieve in this phase?
 
 ## Plan (E1)
 
-- Milestones:
-- Acceptance criteria:
-- Dependencies:
+- Marcos:
+- Critérios de aceitação:
+- Dependências:
 
 ---
 
 ## Design (E2)
 
-- Key design decisions:
-- API or data model changes (if any):
-- Architecture notes:
+- Decisões-chave de design:
+- Mudanças em API ou modelo de dados (se aplicável):
+- Notas de arquitetura:
 
 ---
 
 ## Build (E3)
 
-- Major tasks:
-- Integrations:
+- Tarefas principais:
+- Integrações:
 
 ---
 
 ## Test (E4)
 
-- Tests planned:
-- Critical paths covered:
+- Tests planejados:
+- Caminhos críticos cobertos:
 
 ---
 
 ## Deploy (E5)
 
-- Release steps:
-- Rollback plan:
-- Monitoring updates:
+- Passos de release:
+- Plano de rollback:
+- Atualizações de monitoramento:
 
 ---
 
 ## Review (E6)
 
-- Demo notes:
+- Notas de demo:
 - Feedback:
-- Next step recommendation:
+- Recomendação do próximo passo:

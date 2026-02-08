@@ -1,80 +1,80 @@
 ---
 sidebar_position: 2
-title: Execute Template
+title: Plantilla Execute
 ---
 
-# ✅ Execute Template
-A lightweight template for planning one execution phase in a client-friendly way.
+# ✅ Plantilla Execute
+Una plantilla ligera para planear una fase de ejecución de forma clara y amigable.
 
-## 0) Phase Snapshot
+## 0) Resumen de la fase
 
-- **Project name:**
-- **Phase name:**
-- **Date:**
-- **Owner:**
-
----
-
-## Goal
-
-What are we trying to achieve in this phase?
+- **Nombre del proyecto:**
+- **Nombre de la fase:**
+- **Fecha:**
+- **Responsable:**
 
 ---
 
-## Scope
+## Objetivo
 
-**In scope**
+¿Qué queremos lograr en esta fase?
 
-- Item:
-- Item:
+---
 
-**Out of scope**
+## Alcance
 
-- Item:
-- Item:
+**En alcance**
+
+- Ítem:
+- Ítem:
+
+**Fuera de alcance**
+
+- Ítem:
+- Ítem:
 
 ---
 
 ## Plan (E1)
 
-- Milestones:
-- Acceptance criteria:
-- Dependencies:
+- Hitos:
+- Criterios de aceptación:
+- Dependencias:
 
 ---
 
-## Design (E2)
+## Diseño (E2)
 
-- Key design decisions:
-- API or data model changes (if any):
-- Architecture notes:
+- Decisiones clave de diseño:
+- Cambios en API o modelo de datos (si aplica):
+- Notas de arquitectura:
 
 ---
 
 ## Build (E3)
 
-- Major tasks:
-- Integrations:
+- Tareas principales:
+- Integraciones:
 
 ---
 
 ## Test (E4)
 
-- Tests planned:
-- Critical paths covered:
+- Tests planificados:
+- Caminos críticos cubiertos:
 
 ---
 
 ## Deploy (E5)
 
-- Release steps:
-- Rollback plan:
-- Monitoring updates:
+- Pasos de release:
+- Plan de rollback:
+- Actualizaciones de monitoreo:
 
 ---
 
 ## Review (E6)
 
-- Demo notes:
+- Notas de demo:
 - Feedback:
-- Next step recommendation:
+- Recomendación del siguiente paso:

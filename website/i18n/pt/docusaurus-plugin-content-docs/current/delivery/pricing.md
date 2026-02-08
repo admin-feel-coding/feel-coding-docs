@@ -1,121 +1,119 @@
 ---
 sidebar_position: 3
-title: Pricing
+title: Preços
 ---
 
-# Pricing
-A clear, client-friendly view of how pricing works at Feel Coding.
+# Preços
+Uma visão clara e amigável de como o pricing funciona na Feel Coding.
 
-This page explains how Feel Coding prices work. It is written for both clients and internal teams.
-
-For delivery phases and the D2E structure, see [D2E Framework](../framework/d2e.md).
-
----
-
-## 1. 🎯 Purpose
-
-Pricing should do three things:
-
-- Set expectations clearly.
-- Protect delivery quality.
-- Reduce risk for both sides.
+Para fases de entrega e estrutura D2E, veja [D2E Framework](../framework/d2e.md).
 
 ---
 
-## 2. ✅ Pricing principles
+## 1. 🎯 Propósito
 
-- Discovery is always paid.
-- Work is scoped in phases and approved before start.
-- Estimates are ranges, not promises.
-- Each phase has a clear checkpoint.
-- Transparency beats precision.
+Precificação deve fazer três coisas:
 
----
-
-## 3. 🧭 Pricing models map to D2E
-
-We price by phase. Each model matches a D2E stage so clients always know what they are buying.
+- Definir expectativas com clareza.
+- Proteger a qualidade da entrega.
+- Reduzir o risco para ambos os lados.
 
 ---
 
-## 4. 📦 Pricing models (by D2E)
+## 2. ✅ Princípios de pricing
 
-### 4.1 Decide (Discovery) — fixed fee or time-boxed
+- Discovery é sempre pago.
+- O trabalho é definido por fases e aprovado antes de iniciar.
+- Estimativas são faixas, não promessas.
+- Cada fase tem um checkpoint claro.
+- Transparência vale mais que precisão.
 
-Use Discovery to turn uncertainty into a concrete plan. It is a standalone engagement that ends with written outputs.
+---
 
-Includes:
+## 3. 🧭 Modelos de pricing se alinham ao D2E
 
-- D1-D6 documented.
-- Architecture sketch.
-- Phased roadmap.
-- Estimate ranges with known risks.
+Cobramos por fase. Cada modelo corresponde a uma etapa do D2E para que o cliente saiba o que está comprando.
 
-### 4.2 Execute (SDLC) — phase-based hourly ranges (default)
+---
 
-Each phase has its own scope and estimate range. The client approves each phase before it starts.
+## 4. 📦 Modelos de pricing (por D2E)
 
-Rules:
+### 4.1 Decide (Discovery) — fee fixo ou time-boxed
 
-- Every phase has a defined goal.
-- We agree on a range before work starts.
-- Changes prompt a quick re-alignment and updated estimate.
+Discovery transforma incerteza em um plano concreto. É um engagement standalone que termina com outputs escritos.
 
-### 4.3 Execute (SDLC) — time-boxed sprint (optional)
+Inclui:
 
-Use when speed matters and scope can flex. You sell a fixed time window with a clear goal, not a fixed feature list.
+- D1-D6 documentados.
+- Sketch de arquitetura.
+- Roadmap por fases.
+- Faixas de estimativa com riscos conhecidos.
 
-Rules:
+### 4.2 Execute (SDLC) — faixas por hora (padrão)
 
-- Fixed duration and team size.
-- A short, prioritized scope list.
-- Clear exit criteria.
+Cada fase tem seu próprio escopo e faixa. O cliente aprova cada fase antes de iniciar.
+
+Regras:
+
+- Cada fase tem um objetivo definido.
+- Acordamos uma faixa antes de começar.
+- Mudanças geram um realinhamento rápido e nova estimativa.
+
+### 4.3 Execute (SDLC) — sprint time-boxed (opcional)
+
+Use quando velocidade importa e escopo pode flexionar. Vende-se uma janela de tempo fixa com um objetivo claro, não uma lista fixa de features.
+
+Regras:
+
+- Duração e time fixos.
+- Lista curta e priorizada de escopo.
+- Critérios de saída claros.
 
 ### 4.4 Operate — retainer
 
-Use for post-delivery support and improvement. The retainer buys availability and predictable response times.
+Para suporte pós-entrega e melhoria contínua. O retainer compra disponibilidade e tempos de resposta previsíveis.
 
-Rules:
+Regras:
 
-- Define what is included and what is not.
-- Set a response window.
-- Track hours and report monthly.
-
----
-
-## 5. 🔎 Estimation and quoting
-
-Every estimate includes:
-
-- A best and worst case range.
-- A list of known risks.
-- A list of unknowns that could change the scope.
-
-If the unknowns are too large, stop and sell Discovery first.
+- Definir o que está incluído e o que não está.
+- Estabelecer uma janela de resposta.
+- Registrar horas e reportar mensalmente.
 
 ---
 
-## 6. 📄 What every proposal includes
+## 5. 🔎 Estimativa e cotação
 
-- Scope summary.
-- Deliverables by phase.
-- Estimated range per phase.
-- Assumptions and exclusions.
-- Change control rule.
-- Payment schedule.
+Toda estimativa inclui:
 
----
+- Uma faixa de melhor e pior caso.
+- Riscos conhecidos.
+- Unknowns que podem alterar o escopo.
 
-## 7. 🔁 Change control
-
-When scope changes:
-
-1. Document the change.
-2. Re-estimate together.
-3. Update the phase plan and timeline.
+Se os unknowns forem grandes, venda Discovery primeiro.
 
 ---
 
-## 8. 🧱 One rule to remember
+## 6. 📄 O que toda proposta inclui
 
-If we cannot clearly explain what we are building, we do not build it.
+- Resumo do escopo.
+- Entregáveis por fase.
+- Faixa estimada por fase.
+- Premissas e exclusões.
+- Regra de controle de mudanças.
+- Cronograma de pagamentos.
+
+---
+
+## 7. 🔁 Controle de mudanças
+
+Quando o escopo muda:
+
+1. Documentar a mudança.
+2. Reestimar em conjunto.
+3. Atualizar o plano de fase e o timeline.
+
+---
+
+## 8. 🧱 Uma regra para lembrar
+
+Se não podemos explicar claramente o que vamos construir, não construímos.

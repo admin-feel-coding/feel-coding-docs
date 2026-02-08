@@ -1,38 +1,36 @@
 ---
 slug: /
 sidebar_position: 1
-title: Welcome
+title: Bem-vindo
 ---
 
-# Feel Coding Wiki
-A simple, public guide to how Feel Coding works and delivers software.
+# Wiki da Feel Coding
+Um guia público e simples de como a Feel Coding trabalha e entrega software.
 
-Welcome to the Feel Coding documentation hub.
+Bem-vindo ao hub de documentação da Feel Coding.
 
-This wiki contains everything you need to understand how Feel Coding operates — from company principles to delivery frameworks, templates, and reference material.
+Este wiki contém tudo o que você precisa para entender como a Feel Coding opera: desde princípios da empresa até frameworks de entrega, templates e material de referência.
 
-![Feel Coding Globe](/img/Feel_Coding_Notion_Cover_Globe.jpg)
+## 🧭 Por onde começar
 
-## 🧭 Where to start
+Se você é novo na Feel Coding, siga esta ordem de leitura:
 
-If you are new to Feel Coding, follow this reading order:
+1. [Bíblia da Empresa](company/company-bible.md) — como trabalhamos, o que valorizamos
+2. [Framework D2E](framework/d2e.md) — Decide, Execute, Operate
+3. [Preços](delivery/pricing.md) — como o trabalho é estruturado e precificado
+4. [Modelos de Relacionamento](company/engagement-models.md) — as quatro formas de trabalhar com clientes
+5. [Checklist para Novos Engenheiros](company/new-engineer-checklist.md) — passos de alinhamento na primeira semana
 
-1. [Company Bible](company/company-bible.md) — how we work, what we value
-2. [D2E Framework](framework/d2e.md) — Decide, Execute, Operate
-3. [Pricing](delivery/pricing.md) — how work is packaged and priced
-4. [Engagement Models](company/engagement-models.md) — the four ways we work with clients
-5. [New Engineer Checklist](company/new-engineer-checklist.md) — first-week alignment steps
+## 🗂️ Seções
 
-## 🗂️ Sections
+- **Company** — Bíblia, visão, princípios, modelos de relacionamento, checklist de onboarding
+- **Framework** — framework D2E (Decide, Execute, Operate)
+- **Delivery** — Preços, padrões, checklist de handoff
+- **Templates** — templates de Decide, Execute e Operate
+- **Reference** — glossário de termos
 
-- **Company** — Bible, vision, principles, engagement models, onboarding checklist
-- **Framework** — D2E delivery framework (Decide, Execute, Operate)
-- **Delivery** — Pricing, standards, handoff checklist
-- **Templates** — Decide, Execute, and Operate templates
-- **Reference** — Glossary of terms
+Use o sidebar para navegar entre as seções ou a barra de busca para encontrar tópicos específicos.
 
-Use the sidebar to navigate between sections, or use the search bar to find specific topics.
+## ✍️ Contribuir
 
-## ✍️ Contributing
-
-All documentation lives as Markdown files in this repository. To suggest a change, open a pull request against `main`. Every page has an "Edit this page" link at the bottom.
+Toda a documentação vive como arquivos Markdown neste repositório. Para sugerir uma mudança, abra um pull request contra `main`. Cada página tem um link "Edit this page" no final.
