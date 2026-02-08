@@ -11,12 +11,12 @@ Use esta lista para se alinhar na primeira semana. Seu primeiro entregável é e
 ## 📅 Dia 1: Orientação
 
 - Leia a [Bíblia da Empresa](company-bible.md) e anote quaisquer princípios que te surpreendam.
-- Leia o [Framework D2E](../framework/d2e.md) e relacione cada fase com sua experiência anterior.
+- Leia o [Framework de Delivery D2E](../framework/d2e.md) e relacione cada fase com sua experiência anterior.
 - Revise a página de [Preços](../delivery/pricing.md) para entender como cobramos e aprovamos o trabalho.
 
 ## 📅 Dia 2: Modelo de entrega
 
-- Leia o [Framework D2E](../framework/d2e.md) e resuma cada fase com suas próprias palavras.
+- Leia o [Framework de Delivery D2E](../framework/d2e.md) e resuma cada fase com suas próprias palavras.
 - Revise o [Glossário](../reference/glossary.md) e adicione termos que estejam faltando.
 
 ## 📅 Dia 3: Hábitos de contribuição

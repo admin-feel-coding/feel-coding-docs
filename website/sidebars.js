@@ -20,13 +20,12 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Framework',
-      items: ['framework/d2e', 'framework/decide', 'framework/execute', 'framework/operate'],
-    },
-    {
-      type: 'category',
       label: 'Delivery',
       items: [
+        'framework/d2e',
+        'framework/decide',
+        'framework/execute',
+        'framework/operate',
         'delivery/pricing',
         'delivery/standards',
         'delivery/handoff',

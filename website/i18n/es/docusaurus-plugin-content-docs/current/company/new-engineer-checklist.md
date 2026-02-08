@@ -11,12 +11,12 @@ Usa esta lista para alinearte en tu primera semana. Tu primer entregable es ente
 ## 📅 Día 1: Orientación
 
 - Lee la [Biblia de la Empresa](company-bible.md) y anota cualquier principio que te sorprenda.
-- Lee el [Framework D2E](../framework/d2e.md) y relaciona cada fase con tu experiencia previa.
+- Lee el [Framework de Delivery D2E](../framework/d2e.md) y relaciona cada fase con tu experiencia previa.
 - Revisa la página de [Precios](../delivery/pricing.md) para entender cómo cobramos y cómo se aprueba el trabajo.
 
 ## 📅 Día 2: Modelo de entrega
 
-- Lee el [Framework D2E](../framework/d2e.md) y resume cada fase con tus propias palabras.
+- Lee el [Framework de Delivery D2E](../framework/d2e.md) y resume cada fase con tus propias palabras.
 - Revisa el [Glosario](../reference/glossary.md) y agrega términos faltantes.
 
 ## 📅 Día 3: Hábitos de contribución

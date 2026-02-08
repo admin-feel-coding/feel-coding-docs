@@ -11,12 +11,12 @@ Use this list to get aligned in your first week. Your first deliverable is under
 ## 📅 Day 1: Orientation
 
 - Read the [Company Bible](company-bible.md) and note any principles that surprise you.
-- Read the [D2E Framework](../framework/d2e.md) and map each phase to your past experience.
+- Read the [D2E Delivery Framework](../framework/d2e.md) and map each phase to your past experience.
 - Skim the [Pricing](../delivery/pricing.md) page to understand how we price and gate work.
 
 ## 📅 Day 2: Delivery model
 
-- Read the [D2E Framework](../framework/d2e.md) and summarize each phase in your own words.
+- Read the [D2E Delivery Framework](../framework/d2e.md) and summarize each phase in your own words.
 - Review the [Glossary](../reference/glossary.md) and add any missing terms you notice.
 
 ## 📅 Day 3: Contribution habits

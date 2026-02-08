@@ -16,7 +16,7 @@ Este wiki contém tudo o que você precisa para entender como a Feel Coding oper
 Se você é novo na Feel Coding, siga esta ordem de leitura:
 
 1. [Bíblia da Empresa](company/company-bible.md) — como trabalhamos, o que valorizamos
-2. [Framework D2E](framework/d2e.md) — Decide, Execute, Operate
+2. [Framework de Delivery D2E](framework/d2e.md) — Decide, Execute, Operate
 3. [Preços](delivery/pricing.md) — como o trabalho é estruturado e precificado
 4. [Modelos de Relacionamento](company/engagement-models.md) — as quatro formas de trabalhar com clientes
 5. [Checklist para Novos Engenheiros](company/new-engineer-checklist.md) — passos de alinhamento na primeira semana
@@ -24,8 +24,7 @@ Se você é novo na Feel Coding, siga esta ordem de leitura:
 ## 🗂️ Seções
 
 - **Company** — Bíblia, visão, princípios, modelos de relacionamento, checklist de onboarding
-- **Framework** — framework D2E (Decide, Execute, Operate)
-- **Delivery** — Preços, padrões, checklist de handoff
+- **Delivery** — framework D2E, preços, padrões, checklist de handoff
 - **Templates** — templates de Decide, Execute e Operate
 - **Reference** — glossário de termos
 
