@@ -9,23 +9,23 @@ Una guía pública y simple de cómo Feel Coding trabaja y entrega software.
 
 Bienvenido al centro de documentación de Feel Coding.
 
-Este wiki contiene todo lo que necesitas para entender cómo opera Feel Coding: desde principios de la empresa hasta frameworks de entrega, plantillas y material de referencia.
+Este wiki contiene todo lo que necesitas para entender cómo opera Feel Coding: desde principios de la empresa hasta marcos de entrega, plantillas y material de referencia.
 
 ## 🧭 Por dónde empezar
 
 Si eres nuevo en Feel Coding, sigue este orden de lectura:
 
 1. [Biblia de la Empresa](company/company-bible.md) — cómo trabajamos, qué valoramos
-2. [Framework de Delivery D2E](framework/d2e.md) — Decide, Execute, Operate
-3. [Precios](delivery/pricing.md) — cómo se empaqueta y se cobra el trabajo
-4. [Modelos de Relación](company/engagement-models.md) — las cuatro formas en que trabajamos con clientes
-5. [Checklist para Nuevos Ingenieros](company/new-engineer-checklist.md) — pasos de alineación en la primera semana
+2. [Marco de Entrega D2E](framework/d2e.md) — Decide, Execute, Operate
+3. [Precios](entrega/precios.md) — cómo se empaqueta y se cobra el trabajo
+4. [Modelos de Relación](company/proyecto-models.md) — las cuatro formas en que trabajamos con clientes
+5. [Checklist para Nuevos Ingenieros](company/new-engineer-lista de verificación.md) — pasos de alineación en la primera semana
 
 ## 🗂️ Secciones
 
-- **Company** — Biblia, visión, principios, modelos de relación, checklist de onboarding
-- **Delivery** — framework D2E, precios, estándares, checklist de handoff
-- **Templates** — plantillas Decide, Execute y Operate
+- **Company** — Biblia, visión, principios, modelos de relación, lista de verificación de onboarding
+- **Delivery** — marco D2E, precios, estándares, lista de verificación de traspaso
+- **Plantillas** — plantillas Decide, Execute y Operate
 - **Reference** — glosario de términos
 
 Usa el sidebar para navegar entre secciones o la barra de búsqueda para encontrar temas específicos.

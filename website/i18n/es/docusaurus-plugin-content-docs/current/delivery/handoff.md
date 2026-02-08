@@ -4,7 +4,7 @@ title: Handoff
 ---
 
 # Checklist de Handoff
-Un checklist simple para que el handoff sea claro y completo.
+Un lista de verificación simple para que el traspaso sea claro y completo.
 
 Cómo Feel Coding realiza la transición del trabajo al cliente u otro equipo.
 
@@ -12,7 +12,7 @@ Cómo Feel Coding realiza la transición del trabajo al cliente u otro equipo.
 
 - El cliente debe poder continuar sin nosotros desde el momento en que nos vamos.
 - Todo conocimiento debe estar escrito, no en la cabeza de las personas.
-- El handoff es un proceso, no un evento único.
+- El traspaso es un proceso, no un evento único.
 
 ## 📋 Checklist
 
@@ -27,9 +27,9 @@ Cómo Feel Coding realiza la transición del trabajo al cliente u otro equipo.
 
 ## 🧱 Criterios de salida
 
-Un engagement se considera completo cuando:
+Un proyecto se considera completo cuando:
 
 1. Todos los entregables acordados fueron producidos y aceptados.
-2. El checklist de handoff está completo.
+2. El lista de verificación de traspaso está completo.
 3. El cliente confirma estar listo para continuar de forma independiente.
 4. Se realizó y documentó una retrospectiva.

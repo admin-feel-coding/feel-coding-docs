@@ -4,7 +4,7 @@ title: Plantilla Operate
 ---
 
 # 🛠️ Plantilla Operate
-Un checklist simple para soporte post-entrega y salud del sistema.
+Un lista de verificación simple para soporte post-entrega y salud del sistema.
 
 ## 0) Resumen de Operate
 
@@ -34,7 +34,7 @@ Un checklist simple para soporte post-entrega y salud del sistema.
 
 ## Improve (O3)
 
-- Oportunidades de performance listadas
+- Oportunidades de rendimiento listadas
 - Mejoras de confiabilidad planificadas
 - Mejoras de UX o flujo capturadas
 

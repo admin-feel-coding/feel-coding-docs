@@ -4,9 +4,9 @@ title: Estándares
 ---
 
 # Estándares de Delivery
-Una lista corta de estándares que seguimos en cada engagement.
+Una lista corta de estándares que seguimos en cada proyecto.
 
-Estándares y expectativas que aplican a todo engagement de Feel Coding.
+Estándares y expectativas que aplican a todo proyecto de Feel Coding.
 
 ## 💬 Comunicación
 
@@ -19,10 +19,10 @@ Estándares y expectativas que aplican a todo engagement de Feel Coding.
 
 - Cada decisión se registra con contexto y razonamiento.
 - La documentación técnica se mantiene junto con el código.
-- Los materiales de handoff se preparan de forma incremental, no al final.
+- Los materiales de traspaso se preparan de forma incremental, no al final.
 
 ## ✅ Calidad
 
 - El código se revisa antes de mergear.
 - Los tests cubren caminos críticos.
-- Los deploys son repetibles y están documentados.
+- Los despliegues son repetibles y están documentados.

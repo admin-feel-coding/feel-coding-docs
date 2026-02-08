@@ -11,19 +11,19 @@ Usa esta lista para alinearte en tu primera semana. Tu primer entregable es ente
 ## 📅 Día 1: Orientación
 
 - Lee la [Biblia de la Empresa](company-bible.md) y anota cualquier principio que te sorprenda.
-- Lee el [Framework de Delivery D2E](../framework/d2e.md) y relaciona cada fase con tu experiencia previa.
-- Revisa la página de [Precios](../delivery/pricing.md) para entender cómo cobramos y cómo se aprueba el trabajo.
+- Lee el [Marco de Entrega D2E](../framework/d2e.md) y relaciona cada fase con tu experiencia previa.
+- Revisa la página de [Precios](../entrega/precios.md) para entender cómo cobramos y cómo se aprueba el trabajo.
 
 ## 📅 Día 2: Modelo de entrega
 
-- Lee el [Framework de Delivery D2E](../framework/d2e.md) y resume cada fase con tus propias palabras.
+- Lee el [Marco de Entrega D2E](../framework/d2e.md) y resume cada fase con tus propias palabras.
 - Revisa el [Glosario](../reference/glossary.md) y agrega términos faltantes.
 
 ## 📅 Día 3: Hábitos de contribución
 
-- Redacta un Discovery Summary usando la [Decide Template](../templates/decide-template.md).
-- Redacta un Phase Plan usando la [Execute Template](../templates/execute-template.md).
-- Revisa la [Operate Template](../templates/operate-template.md).
+- Redacta un resumen de Discovery usando la [Plantilla Decide](../templates/decide-template.md).
+- Redacta un plan de fase usando la [Plantilla Execute](../templates/execute-template.md).
+- Revisa la [Plantilla Operate](../templates/operate-template.md).
 
 ## ✅ Para el final de la semana
 

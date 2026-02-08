@@ -20,7 +20,7 @@ Discovery existe para evitar problemas comunes como:
 
 - Construir lo incorrecto
 - Alcance y expectativas poco claras
-- Sorpresas de presupuesto o timeline
+- Sorpresas de presupuesto o cronograma
 - Decisiones técnicas tardías
 - Supuestos ocultos
 
@@ -35,8 +35,8 @@ Durante Discovery, decidimos con claridad:
 - **Qué problema resolvemos** y por qué importa
 - **Para quién es el producto** y cómo se ve el éxito
 - **Cuál es el MVP** (y qué queda fuera)
-- **Qué riesgos existen**, técnicos y de delivery
-- **Qué se necesita para construir**, en esfuerzo, fases y timeline
+- **Qué riesgos existen**, técnicos y de entrega
+- **Qué se necesita para construir**, en esfuerzo, fases y cronograma
 
 Todas las decisiones se documentan y se revisan con el cliente.
 
@@ -48,16 +48,16 @@ Discovery sigue seis pasos claros. Cada paso construye sobre el anterior.
 
 ```mermaid
 flowchart TB
-    D1["D1 Problem<br/>Business problem + outcomes"] --> D2["D2 Requirements<br/>MVP flows + constraints"]
-    D2 --> D3["D3 Solution shaping<br/>Architecture + tradeoffs"]
-    D3 --> D4["D4 MVP + phases<br/>Scope cut + roadmap"]
-    D4 --> D5["D5 Estimation<br/>Ranges + risks"]
-    D5 --> D6["D6 Proposal-ready<br/>Milestones + acceptance"]
+    D1["D1 Problema<br/>Problema de negocio + resultados"] --> D2["D2 Requisitos<br/>Flujos MVP + restricciones"]
+    D2 --> D3["D3 Definición de solucion<br/>Arquitectura + compensaciones"]
+    D3 --> D4["D4 MVP + phases<br/>Recorte de alcance + hoja de ruta"]
+    D4 --> D5["D5 Estimación<br/>Ranges + risks"]
+    D5 --> D6["D6 Listo para propuesta<br/>Milestones + acceptance"]
 ```
 
 ---
 
-## D1 — Problema y resultados
+## D1 — Problemaa y resultados
 
 **Objetivo:** Hacer el pedido claro y medible.
 
@@ -76,18 +76,18 @@ flowchart TB
 - Flujos principales
 - Roles y permisos
 - Integraciones requeridas
-- Necesidades no funcionales (seguridad, performance, escalabilidad)
+- Necesidades no funcionales (seguridad, rendimiento, escalabilidad)
 
 ---
 
 ## D3 — Solution Shaping
 
-**Objetivo:** Elegir una dirección técnica y explicar tradeoffs.
+**Objetivo:** Elegir una dirección técnica y explicar compensaciones.
 
 **Definimos:**
 - Un enfoque de solución de alto nivel
 - Decisiones técnicas clave
-- Riesgos y unknowns principales
+- Riesgos y desconocidos principales
 
 Esto asegura que no haya sorpresas técnicas más adelante.
 
@@ -111,8 +111,8 @@ Este paso protege al proyecto de construir de más demasiado pronto.
 **Objetivo:** Dar un rango honesto, no una promesa fija.
 
 **Definimos:**
-- Estimaciones de mejor y peor caso
-- Unknowns y spikes necesarios
+- Estimaciónes de mejor y peor caso
+- Desconocidos y investigaciones necesarios
 - Buffers de riesgo y supuestos
 
 Las estimaciones son transparentes y realistas.
@@ -137,7 +137,7 @@ En este punto, el cliente tiene un plan completo y accionable.
 Al final de Discovery, el cliente recibe:
 
 - Definición clara del problema y criterios de éxito
-- MVP bien definido y roadmap por fases
+- MVP bien definido y hoja de ruta por fases
 - Dirección técnica documentada
 - Rango de estimación transparente
 - Plan de ejecución listo para propuesta
@@ -160,4 +160,4 @@ Solo después de esto comienza la ejecución.
 ---
 
 **Siguiente:** [Execute (SDLC)](execute.md)
-**Plantilla:** [Decide Template](../templates/decide-template.md)
+**Plantilla:** [Plantilla Decide](../templates/decide-template.md)

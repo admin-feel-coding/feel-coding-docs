@@ -1,13 +1,13 @@
 ---
 sidebar_position: 1
-title: Framework D2E
+title: Marco D2E
 ---
 
-# D2E Framework 🧭
+# Marco D2E 🧭
 
 **Un modelo de entrega claro y por fases**
 
-El **Framework D2E (Decide → Execute → Operate)** es el framework de entrega que Feel Coding usa para estructurar **cada proyecto con clientes**.
+El **Marco D2E (Decide → Execute → Operate)** es el marco de entrega que Feel Coding usa para estructurar **cada proyecto con clientes**.
 
 Existe para traer **claridad, previsibilidad y propiedad** a proyectos de software, especialmente cuando los requisitos son complejos, cambiantes o poco claros al inicio.
 
@@ -23,15 +23,15 @@ Para los principios que guían cómo operamos, ver [Biblia de la Empresa](../com
 - **Execute** — construir y entregar la solución acordada
 - **Operate** — mantener el sistema estable, eficiente y transferible
 
-El framework se basa en una regla simple pero estricta:
+El marco se basa en una regla simple pero estricta:
 
 > **Las decisiones vienen antes que la ejecución.**
 
-Separar decisiones de implementación evita confusión de alcance, expectativas poco claras y riesgo de delivery.
+Separar decisiones de implementación evita confusión de alcance, expectativas poco claras y riesgo de entrega.
 
 ---
 
-## Cómo funciona el framework
+## Cómo funciona el marco
 
 Cada fase D2E es:
 
@@ -56,7 +56,7 @@ Su objetivo es responder:
 - ¿Qué problema resolvemos?
 - ¿Qué es éxito?
 - ¿Qué se construye ahora y qué se deja para después?
-- ¿Cuáles son los riesgos, tradeoffs y restricciones?
+- ¿Cuáles son los riesgos, compensaciones y restricciones?
 
 **Discovery decide.**
 
@@ -64,18 +64,18 @@ Su objetivo es responder:
 
 ### 🛠️ Execute (SDLC)
 
-Execution convierte decisiones aprobadas en software funcionando.
+Ejecución convierte decisiones aprobadas en software funcionando.
 
-Sigue un loop SDLC estructurado:
+Sigue un ciclo SDLC estructurado:
 
 - Plan
-- Design
-- Build
-- Test
-- Deploy
-- Review
+- Diseño
+- Construcción
+- Pruebas
+- Despliegue
+- Revisión
 
-Execution **no redefine alcance** — implementa lo acordado en Discovery.
+Ejecución **no redefine alcance** — implementa lo acordado en Discovery.
 
 **SDLC ejecuta.**
 
@@ -90,9 +90,9 @@ Se enfoca en:
 - Monitoreo y confiabilidad
 - Resolución de issues e incidentes
 - Mejora continua
-- Optimización de costos y performance
+- Optimización de costos y rendimiento
 
-Operate es opcional y puede ser por hora o retainer.
+Operate es opcional y puede ser por hora o abono mensual.
 
 **Ops estabiliza.**
 
@@ -104,9 +104,9 @@ Operate es opcional y puede ser por hora o retainer.
 graph LR
     D["Decide<br/>(Discovery)"] --> E["Execute<br/>(SDLC)"] --> O["Operate"]
 
-    D -.- D_out["D1 Problem<br/>D2 Requirements<br/>D3 Solution shaping<br/>D4 MVP + Phases<br/>D5 Estimation<br/>D6 Proposal-ready"]
-    E -.- E_out["E1 Plan<br/>E2 Design<br/>E3 Build<br/>E4 Test<br/>E5 Deploy<br/>E6 Review"]
-    O -.- O_out["O1 Monitor<br/>O2 Fix<br/>O3 Improve<br/>O4 Optimize"]
+    D -.- D_out["D1 Problema<br/>D2 Requisitos<br/>D3 Definición de solucion<br/>D4 MVP + Fases<br/>D5 Estimación<br/>D6 Listo para propuesta"]
+    E -.- E_out["E1 Plan<br/>E2 Diseño<br/>E3 Construcción<br/>E4 Pruebas<br/>E5 Despliegue<br/>E6 Revisión"]
+    O -.- O_out["O1 Monitoreo<br/>O2 Corrección<br/>O3 Mejora<br/>O4 Optimización"]
 
     style D fill:#e8f4f8,stroke:#2c3e50,color:#2c3e50
     style E fill:#e8f4f8,stroke:#2c3e50,color:#2c3e50
@@ -116,7 +116,7 @@ graph LR
     style O_out fill:#fff,stroke:#bdc3c7,color:#2c3e50
 ```
 
-## Cómo leer el framework ✅
+## Cómo leer el marco ✅
 
 - **Decide** reduce riesgo y produce un plan claro y compartido
 - **Execute** construye la solución acordada en fases controladas
@@ -136,20 +136,20 @@ Cada fase está explicada en detalle en su propia página:
 
 Cada fase también tiene una plantilla para asegurar consistencia:
 
-- [Decide Template](../templates/decide-template.md)
-- [Execute Template](../templates/execute-template.md)
-- [Operate Template](../templates/operate-template.md)
+- [Plantilla Decide](../templates/decide-template.md)
+- [Plantilla Execute](../templates/execute-template.md)
+- [Plantilla Operate](../templates/operate-template.md)
 
 ---
 
 ## Cuándo usar D2E 📌
 
-Usa el framework D2E cuando:
+Usa el marco D2E cuando:
 
 - La solicitud es vaga, compleja o riesgosa
 - Necesitas estimar o preparar una propuesta
-- Quieres evitar scope creep y sorpresas
-- Te importa la mantenibilidad y el ownership a largo plazo
+- Quieres evitar alcance creep y sorpresas
+- Te importa la mantenibilidad y el propiedad a largo plazo
 
 En la práctica: **casi siempre**.
 
@@ -164,5 +164,5 @@ Si D1–D6 no existen y no están acordados, sigues en Discovery.
 Esta regla protege:
 
 - A los clientes de un alcance poco claro y sobrecostos
-- A los ingenieros de objetivos cambiantes en medio del build
+- A los ingenieros de objetivos cambiantes en medio del construcción
 - A los proyectos de fallas evitables

@@ -16,7 +16,7 @@ Este documento define los **modelos de relación** bajo los cuales opera Feel Co
 
 Existe para:
 
-- Soportar distintos tipos de clientes sin cambiar el framework
+- Soportar distintos tipos de clientes sin cambiar el marco
 - Mantener claridad, límites y sostenibilidad
 - Evitar improvisación o decisiones emocionales
 
@@ -28,9 +28,9 @@ Este documento responde la pregunta:
 
 ## 2. 🧱 Regla central (aplica a todos los modelos)
 
-> Feel Coding usa un solo framework (D2E), pero múltiples modelos de relación.
+> Feel Coding usa un solo marco (D2E), pero múltiples modelos de relación.
 
-- El framework nunca cambia
+- El marco nunca cambia
 - Cambia el modelo de relación
 - El alcance, el precio y la profundidad se adaptan, los principios no
 
@@ -59,9 +59,9 @@ Relación tradicional **cliente-proveedor** con una empresa establecida.
 
 **Modelo de pago:**
 
-- Discovery (D): Pagado, fijo o time-boxed
-- Execution (E): Por hora o por hitos
-- Operate (O): Opcional, por hora o retainer
+- Discovery (D): Pagado, fijo o acotado en tiempo
+- Ejecución (E): Por hora o por hitos
+- Operate (O): Opcional, por hora o abono mensual
 
 **Cómo aplica D2E:**
 
@@ -91,7 +91,7 @@ Relación con **personas o equipos informales** que tienen ideas pero no una emp
 **Modelo de pago:**
 
 - Discovery (D): Mini Discovery (D1-D3), pagado
-- Execution (E): Pequeño, time-boxed, por hora
+- Ejecución (E): Pequeño, acotado en tiempo, por hora
 - Operate (O): Usualmente ninguno
 
 **Cómo aplica D2E:**
@@ -121,7 +121,7 @@ Una **alianza selectiva** con founders o startups tempranas donde Feel Coding pu
 
 **Modelo de pago:**
 
-- Mixto: efectivo parcial, pago diferido, equity o upside (opcional, no default)
+- Mixto: efectivo parcial, pago diferido, equity o upside (opcional, no por defecto)
 
 **Cómo aplica D2E:**
 
@@ -161,7 +161,7 @@ Trabajo interno o público creado por Feel Coding para aprendizaje, señal de ex
 **Reglas:**
 
 - Debe tener un propósito claro
-- No debe drenar capacidad de delivery
+- No debe drenar capacidad de entrega
 - Debe alinearse con posicionamiento de largo plazo
 
 :::info Doctrina

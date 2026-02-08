@@ -51,7 +51,7 @@ Una plantilla ligera para planear una fase de ejecución de forma clara y amigab
 
 ---
 
-## Build (E3)
+## Construcción (E3)
 
 - Tareas principales:
 - Integraciones:
@@ -65,7 +65,7 @@ Una plantilla ligera para planear una fase de ejecución de forma clara y amigab
 
 ---
 
-## Deploy (E5)
+## Despliegue (E5)
 
 - Pasos de release:
 - Plan de rollback:
@@ -73,7 +73,7 @@ Una plantilla ligera para planear una fase de ejecución de forma clara y amigab
 
 ---
 
-## Review (E6)
+## Revisión (E6)
 
 - Notas de demo:
 - Feedback:

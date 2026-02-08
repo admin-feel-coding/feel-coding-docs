@@ -102,7 +102,7 @@ Una plantilla reusable para Discovery, clara, completa y amigable para clientes.
 
 ## D4 — MVP y Fases
 
-### Fase 1 — MVP (must-have)
+### Fase 1 — MVP (imprescindible)
 
 - Funcionalidad:
 - Funcionalidad:
@@ -136,7 +136,7 @@ Una plantilla reusable para Discovery, clara, completa y amigable para clientes.
 - Probable:
 - Peor caso:
 
-### Desconocidos / spikes necesarios
+### Desconocidos / investigaciones necesarios
 
 - Spike:
 - Spike:
@@ -173,9 +173,9 @@ Una plantilla reusable para Discovery, clara, completa y amigable para clientes.
 
 ---
 
-## Decision Gate
+## Punto de decisión
 
-☐ Aprobado para pasar a build (SDLC)
+☐ Aprobado para pasar a ejecución (SDLC)
 
 ☐ Requiere ajustes
 

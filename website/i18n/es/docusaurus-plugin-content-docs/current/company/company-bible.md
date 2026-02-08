@@ -38,13 +38,13 @@ Dejamos a los clientes capaces de continuar sin nosotros. Construimos capacidad,
 
 ### La retroalimentación es un regalo
 
-Damos feedback de forma directa y respetuosa. Lo recibimos con apertura.
+Damos retroalimentación de forma directa y respetuosa. Lo recibimos con apertura.
 
 ## 🧭 Cómo trabajamos
 
 - Nos comunicamos por escrito como medio principal. Las reuniones apoyan las decisiones escritas, no las reemplazan.
-- Usamos frameworks estructurados para entregar proyectos. Se documentan y se comparten con los clientes desde el día uno.
-- Dejamos cada engagement en un estado donde el cliente puede continuar sin nosotros.
+- Usamos marcos estructurados para entregar proyectos. Se documentan y se comparten con los clientes desde el día uno.
+- Dejamos cada proyecto en un estado donde el cliente puede continuar sin nosotros.
 - Versionamos y mantenemos la documentación igual que el código.
 
 ## 🤝 Cómo tratamos a los clientes
@@ -56,7 +56,7 @@ Damos feedback de forma directa y respetuosa. Lo recibimos con apertura.
 
 ## 🧑‍🤝‍🧑 Cómo nos tratamos entre nosotros
 
-- Damos feedback directo y respetuoso.
+- Damos retroalimentación directo y respetuoso.
 - Asumimos buena intención.
 - Pedimos ayuda temprano.
 - Compartimos lo que aprendemos.

@@ -19,7 +19,7 @@ Operate existe para:
 
 - Detectar issues temprano
 - Resolver problemas rápidamente
-- Mejorar performance y confiabilidad con el tiempo
+- Mejorar rendimiento y confiabilidad con el tiempo
 - Controlar costos operativos e infraestructura
 
 Operate no es sobre nuevas features.
@@ -31,9 +31,9 @@ Es sobre mantener lo construido **funcionando bien**.
 
 Operate sigue un ciclo continuo:
 
-- Monitorear el sistema en uso real
+- Monitoreoear el sistema en uso real
 - Corregir issues e incidentes
-- Mejorar confiabilidad y performance
+- Mejorar confiabilidad y rendimiento
 - Optimizar costos y eficiencia
 
 Este ciclo se repite mientras el sistema esté en uso.
@@ -46,13 +46,13 @@ Cada paso tiene un propósito claro y produce outputs documentados.
 
 ```mermaid
 flowchart LR
-    O1["O1 Monitor"] --> O2["O2 Fix"] --> O3["O3 Improve"] --> O4["O4 Optimize"]
+    O1["O1 Monitoreo"] --> O2["O2 Corrección"] --> O3["O3 Mejora"] --> O4["O4 Optimización"]
     O4 --> O1
 ```
 
 ---
 
-## O1 — Monitor
+## O1 — Monitoreo
 
 **Objetivo:** Ver issues antes que los usuarios.
 
@@ -65,12 +65,12 @@ El monitoreo da visibilidad de cómo se comporta el sistema en producción.
 
 ---
 
-## O2 — Fix
+## O2 — Corrección
 
 **Objetivo:** Resolver incidentes y evitar repeticiones.
 
 **Entregamos:**
-- Fixes de bugs e incidentes
+- Correcciónes de bugs e incidentes
 - Resúmenes o post-mortems (cuando corresponde)
 - Pasos de recuperación documentados
 
@@ -78,12 +78,12 @@ Los fixes se manejan de forma deliberada, no reactiva.
 
 ---
 
-## O3 — Improve
+## O3 — Mejora
 
 **Objetivo:** Hacer el sistema mejor con el tiempo.
 
 **Entregamos:**
-- Mejoras de performance
+- Mejoras de rendimiento
 - Mejoras de confiabilidad y estabilidad
 - Mejoras de UX o flujo basadas en uso real
 
@@ -91,7 +91,7 @@ Las mejoras se guían por datos reales, no suposiciones.
 
 ---
 
-## O4 — Optimize
+## O4 — Optimización
 
 **Objetivo:** Reducir costos y desperdicio sin afectar la calidad.
 
@@ -118,7 +118,7 @@ Todo el conocimiento operativo se documenta y se comparte con el cliente.
 
 ---
 
-## 🤝 Opciones de engagement
+## 🤝 Opciones de proyecto
 
 Operate es opcional y normalmente se ofrece como:
 
@@ -129,5 +129,5 @@ El modelo se acuerda por adelantado y puede ajustarse según cambien las necesid
 
 ---
 
-**Siguiente:** [Precios](../delivery/pricing.md)
-**Plantilla:** [Operate Template](../templates/operate-template.md)
+**Siguiente:** [Precios](../entrega/precios.md)
+**Plantilla:** [Plantilla Operate](../templates/operate-template.md)

@@ -18,7 +18,7 @@ Ejecución no redefine alcance — implementa lo ya acordado.
 Ejecución existe para:
 
 - Construir la solución acordada paso a paso
-- Reducir riesgo de delivery con incrementos pequeños y revisables
+- Reducir riesgo de entrega con incrementos pequeños y revisables
 - Mantener el progreso visible y predecible
 - Asegurar calidad antes de liberar
 
@@ -33,7 +33,7 @@ Durante Ejecución:
 - El trabajo se planifica **una fase a la vez**
 - Cada fase tiene alcance y objetivo claros
 - El progreso se revisa antes de avanzar
-- El feedback informa la siguiente fase
+- El retroalimentación informa la siguiente fase
 
 Este enfoque evita sorpresas y mantiene alineados al cliente y al equipo.
 
@@ -41,12 +41,12 @@ Este enfoque evita sorpresas y mantiene alineados al cliente y al equipo.
 
 ## Los pasos de Ejecución (E1–E6)
 
-Ejecución sigue un loop simple y repetible.
+Ejecución sigue un ciclo simple y repetible.
 Cada paso produce outputs concretos y documentados.
 
 ```mermaid
 flowchart LR
-    E1["E1 Plan"] --> E2["E2 Design"] --> E3["E3 Build"] --> E4["E4 Test"] --> E5["E5 Deploy"] --> E6["E6 Review"]
+    E1["E1 Plan"] --> E2["E2 Diseño"] --> E3["E3 Construcción"] --> E4["E4 Pruebas"] --> E5["E5 Despliegue"] --> E6["E6 Revisión"]
     E6 --> E1
 ```
 
@@ -65,7 +65,7 @@ Esto asegura que todos sepan qué se trabajará.
 
 ---
 
-## E2 — Design
+## E2 — Diseño
 
 **Objetivo:** Dejar la solución lista para construir.
 
@@ -78,7 +78,7 @@ Las decisiones de diseño se documentan antes de implementar.
 
 ---
 
-## E3 — Build
+## E3 — Construcción
 
 **Objetivo:** Implementar el alcance acordado.
 
@@ -87,16 +87,16 @@ Las decisiones de diseño se documentan antes de implementar.
 - Documentación técnica actualizada
 - Cambios de infraestructura (si aplica)
 
-El build sigue el plan aprobado en pasos anteriores.
+El construcción sigue el plan aprobado en pasos anteriores.
 
 ---
 
-## E4 — Test
+## E4 — Pruebas
 
 **Objetivo:** Validar comportamiento antes de liberar.
 
 **Realizamos:**
-- Tests unitarios y de integración
+- Pruebass unitarios y de integración
 - Checks end-to-end focalizados
 - Checks básicos de seguridad y estabilidad
 
@@ -104,7 +104,7 @@ Este paso reduce el riesgo de issues en producción.
 
 ---
 
-## E5 — Deploy
+## E5 — Despliegue
 
 **Objetivo:** Liberar de forma segura.
 
@@ -117,12 +117,12 @@ Los releases son deliberados y controlados.
 
 ---
 
-## E6 — Review
+## E6 — Revisión
 
-**Objetivo:** Cerrar el loop y decidir lo siguiente.
+**Objetivo:** Cerrar el ciclo y decidir lo siguiente.
 
 **Entregamos:**
-- Demo o review de lo construido
+- Demo o revisión de lo construido
 - Feedback recolectado
 - Backlog y prioridades actualizados
 - Decisión sobre la siguiente fase
@@ -156,4 +156,4 @@ En cualquier momento, el cliente mantiene todo lo entregado y documentado.
 ---
 
 **Siguiente:** [Operate](operate.md)
-**Plantilla:** [Execute Template](../templates/execute-template.md)
+**Plantilla:** [Plantilla Execute](../templates/execute-template.md)
