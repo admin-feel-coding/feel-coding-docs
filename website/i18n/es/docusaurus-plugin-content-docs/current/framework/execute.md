@@ -3,11 +3,46 @@ sidebar_position: 3
 title: Execute (SDLC)
 ---
 
-# Execute (SDLC)
+# Execute (SDLC) 🛠️
+**Building what was agreed**
 
-Execution builds the agreed solution in repeatable phases. Each phase has a goal, a scope, and a clear checkpoint.
+Execution is the phase where the solution defined in Discovery is **built and delivered**.
 
-## Execution loop (E1 to E6)
+Its purpose is to turn clear decisions into **working software**, in a controlled and predictable way.
+Execution does not redefine scope — it implements what was already agreed.
+
+---
+
+## What This Phase Is For
+
+Execution exists to:
+
+- Build the agreed solution step by step
+- Reduce delivery risk through small, reviewable increments
+- Keep progress visible and predictable
+- Ensure quality before release
+
+Work is organized into **repeatable phases**, each with a clear goal and checkpoint.
+
+---
+
+## How Execution Works ✅
+
+During Execution:
+
+- Work is planned **one phase at a time**
+- Each phase has a clear scope and goal
+- Progress is reviewed before moving forward
+- Feedback informs the next phase
+
+This approach avoids surprises and keeps both the client and the team aligned.
+
+---
+
+## The Execution Steps (E1–E6)
+
+Execution follows a simple, repeatable loop.
+Each step produces concrete, documented outputs.
 
 ```mermaid
 flowchart LR
@@ -15,73 +50,110 @@ flowchart LR
     E6 --> E1
 ```
 
-## How execution works
-
-- Work is approved phase by phase.
-- Each phase has an estimate range and a scope cap.
-- Changes trigger a re-estimate.
+---
 
 ## E1 — Plan
 
-Goal: Define the next slice of work clearly.
+**Goal:** Define the next slice of work clearly.
 
-Outputs:
+**We define:**
+- The goal of the next phase or sprint
+- Tasks or tickets with acceptance criteria
+- Updated risks or dependencies
 
-- Milestones or sprint goal.
-- Tickets and acceptance criteria.
-- Updated risks or dependencies.
+This ensures everyone knows what is being worked on next.
+
+---
 
 ## E2 — Design
 
-Goal: Make the solution buildable.
+**Goal:** Make the solution ready to build.
 
-Outputs:
+**We define:**
+- API contracts or interfaces
+- Data model or schema changes
+- Infrastructure or integration decisions
 
-- API contracts.
-- Data model changes.
-- Infrastructure decisions.
+Design decisions are documented before implementation begins.
+
+---
 
 ## E3 — Build
 
-Goal: Implement the agreed slice.
+**Goal:** Implement the agreed scope.
 
-Outputs:
+**We deliver:**
+- Working code
+- Updated technical documentation
+- Infrastructure changes (if required)
 
-- Working code.
-- Updated technical documentation.
-- Infrastructure changes (if needed).
+Build work follows the approved plan from earlier steps.
+
+---
 
 ## E4 — Test
 
-Goal: Validate behavior before release.
+**Goal:** Validate behavior before release.
 
-Outputs:
+**We perform:**
+- Unit and integration tests
+- Targeted end-to-end checks
+- Basic security and stability checks
 
-- Unit and integration tests.
-- Targeted end-to-end checks.
-- Security sanity checks.
+This step reduces the risk of issues reaching production.
+
+---
 
 ## E5 — Deploy
 
-Goal: Release safely.
+**Goal:** Release safely.
 
-Outputs:
+**We ensure:**
+- Production deployment is completed
+- Monitoring is in place
+- Rollback options are ready if needed
 
-- Production deployment.
-- Monitoring and rollback readiness.
+Releases are deliberate and controlled.
+
+---
 
 ## E6 — Review
 
-Goal: Close the loop and decide next steps.
+**Goal:** Close the loop and decide what comes next.
 
-Outputs:
+**We deliver:**
+- A demo or review of what was built
+- Collected feedback
+- Updated backlog and priorities
+- A decision on the next phase
 
-- Demo and feedback.
-- Backlog updates.
-- Next phase decision.
+Nothing moves forward without review.
 
-## Exit criteria
+---
 
-Execution ends when the MVP is delivered or the client stops.
+## What Execution Produces
 
-Next: [Operate](operate.md)
+By the end of Execution, the client receives:
+
+- Working software increments
+- Clear documentation of what was built
+- Test coverage and deployment guidance
+- A transparent record of decisions and changes
+
+Progress is always visible and understandable.
+
+---
+
+## 🧱 Exit Criteria
+
+Execution ends when:
+
+- The agreed MVP has been delivered, **or**
+- The client chooses to stop
+
+At any point, the client keeps all delivered work and documentation.
+
+---
+
+**Next:** [Operate](operate.md)
+**Template:** [Execute Template](../templates/execute-template.md)

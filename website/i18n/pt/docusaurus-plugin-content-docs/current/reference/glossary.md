@@ -3,7 +3,8 @@ sidebar_position: 1
 title: Glossary
 ---
 
-# Glossary
+# 📚 Glossary
+Quick definitions for common terms used across this wiki.
 
 Definitions of terms used across Feel Coding documentation.
 

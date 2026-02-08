@@ -3,23 +3,22 @@ sidebar_position: 1
 title: Engagement Models
 ---
 
-# Engagement Models
+# 🧭 Engagement Models
+A simple map of how we work with different clients and partners.
 
 **Version 1.0**
 
 ---
 
-## 1. Purpose of this document
+## 1. 🎯 Purpose of this document
 
 This document defines the **engagement models** under which Feel Coding operates.
 
 It exists to:
 
-- Allow Feel Coding to work with different kinds of clients
-- Preserve a single delivery framework (D2E)
+- Support different client types without changing the framework
 - Maintain clarity, boundaries, and sustainability
 - Avoid improvisation or emotional decisions
-- Enable Feel Coding to scale without changing its identity
 
 This document answers the question:
 
@@ -27,7 +26,7 @@ This document answers the question:
 
 ---
 
-## 2. Core rule (applies to all models)
+## 2. 🧱 Core rule (applies to all models)
 
 > Feel Coding uses one framework (D2E), but multiple engagement models.
 
@@ -37,7 +36,7 @@ This document answers the question:
 
 ---
 
-## 3. Engagement model overview
+## 3. 🗂️ Engagement model overview
 
 Feel Coding operates under four official engagement models:
 
@@ -171,7 +170,7 @@ Productized work exists to **create leverage**, not distraction.
 
 ---
 
-## 8. Cross-model principles (non-negotiable)
+## 8. ✅ Cross-model principles (non-negotiable)
 
 These principles apply to **all** engagement models.
 
@@ -185,7 +184,7 @@ These principles apply to **all** engagement models.
 
 ---
 
-## 9. Decision authority
+## 9. 🔒 Decision authority
 
 Feel Coding reserves the right to:
 

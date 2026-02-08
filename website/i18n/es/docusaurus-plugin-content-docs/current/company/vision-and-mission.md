@@ -4,11 +4,12 @@ title: Vision and Mission
 ---
 
 # Vision and Mission
+A short statement of where we are going and why.
 
-## Vision
+## 🌍 Vision
 
 A world where every software project is understandable, maintainable, and owned by the people it serves.
 
-## Mission
+## 🎯 Mission
 
 Feel Coding helps teams build software that is clear, well-documented, and designed for long-term independence. We work alongside our clients — not above them — to deliver technology they fully understand and control.

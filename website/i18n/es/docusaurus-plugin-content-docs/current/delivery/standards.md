@@ -4,23 +4,24 @@ title: Standards
 ---
 
 # Delivery Standards
+A short list of standards we follow in every engagement.
 
 Standards and expectations that apply to every Feel Coding engagement.
 
-## Communication
+## 💬 Communication
 
 - Progress is visible at all times.
 - Blockers are raised within 24 hours.
 - Documentation is updated continuously, not at the end.
 - The client can request a status summary at any point.
 
-## Documentation
+## 📝 Documentation
 
 - Every decision is recorded with context and reasoning.
 - Technical documentation is maintained alongside the code.
 - Handover materials are prepared incrementally, not as a last step.
 
-## Quality
+## ✅ Quality
 
 - Code is reviewed before it is merged.
 - Tests cover critical paths.
