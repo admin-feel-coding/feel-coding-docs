@@ -7,9 +7,9 @@ title: Framework D2E
 
 **Un modelo de entrega claro y por fases**
 
-El **D2E Framework (Decide → Execute → Operate)** es el framework de delivery que Feel Coding usa para estructurar **cada engagement con clientes**.
+El **Framework D2E (Decide → Execute → Operate)** es el framework de entrega que Feel Coding usa para estructurar **cada proyecto con clientes**.
 
-Existe para traer **claridad, predictibilidad y ownership** a proyectos de software, especialmente cuando los requisitos son complejos, cambiantes o poco claros al inicio.
+Existe para traer **claridad, previsibilidad y propiedad** a proyectos de software, especialmente cuando los requisitos son complejos, cambiantes o poco claros al inicio.
 
 Para los principios que guían cómo operamos, ver [Biblia de la Empresa](../company/company-bible.md).
 
