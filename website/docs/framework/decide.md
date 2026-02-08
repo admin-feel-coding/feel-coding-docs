@@ -3,20 +3,48 @@ sidebar_position: 2
 title: Decide (Discovery)
 ---
 
-# Decide (Discovery)
-What this phase is for and what it produces.
+# Decide (Discovery) 🧭
+**Clarity before building**
 
-Discovery is a paid, standalone phase focused on clarity and risk reduction. It produces the decisions that make execution safe and predictable.
+Discovery is a **paid, standalone phase** focused on clarity and risk reduction.
 
-## 🧭 What Discovery decides
+Its purpose is to make sure everyone clearly understands **what is being built, why it matters, and what it will take** — before time and budget are committed to execution.
 
-- What problem we are solving.
-- Who the product is for.
-- What the MVP is.
-- What risks exist.
-- What it will take to build.
+Discovery produces the decisions that make delivery **safe, predictable, and transparent**.
 
-## 📌 D1 to D6 overview
+---
+
+## What This Phase Is For
+
+Discovery exists to avoid common project problems such as:
+
+- Building the wrong thing
+- Unclear scope and expectations
+- Budget or timeline surprises
+- Late technical decisions
+- Hidden assumptions
+
+By the end of Discovery, there is a shared understanding between Feel Coding and the client about what will happen next.
+
+---
+
+## 🧠 What Discovery Decides
+
+During Discovery, we clearly decide:
+
+- **What problem we are solving** and why it matters
+- **Who the product is for** and what success looks like
+- **What the MVP is** (and what is not included)
+- **What risks exist**, both technical and delivery-related
+- **What it will take to build**, in terms of effort, phases, and timeline
+
+All decisions are documented and reviewed with the client.
+
+---
+
+## The Discovery Steps (D1–D6)
+
+Discovery follows six clear steps. Each step builds on the previous one.
 
 ```mermaid
 flowchart TB
@@ -27,74 +55,109 @@ flowchart TB
     D5 --> D6["D6 Proposal-ready<br/>Milestones + acceptance"]
 ```
 
-## D1 — Problem and outcomes
+---
 
-Goal: Make the request concrete and measurable.
+## D1 — Problem and Outcomes
 
-Outputs:
+**Goal:** Make the request clear and measurable.
 
-- Problem statement in plain language.
-- Success metrics.
-- Constraints (time, budget, compliance).
+**We define:**
+- The problem in plain language
+- What success looks like
+- Known constraints (time, budget, compliance, security)
+
+---
 
 ## D2 — Requirements
 
-Goal: Define what "done" means.
+**Goal:** Define what “done” means.
 
-Outputs:
+**We define:**
+- Core user flows
+- Roles and permissions
+- Required integrations
+- Non-functional needs (security, performance, scalability)
 
-- Core user flows.
-- Roles and permissions.
-- Integrations.
-- Non-functional requirements (security, performance, scale).
+---
 
-## D3 — Solution shaping
+## D3 — Solution Shaping
 
-Goal: Choose a direction and explain tradeoffs.
+**Goal:** Choose a technical direction and explain tradeoffs.
 
-Outputs:
+**We define:**
+- A high-level solution approach
+- Key technical decisions
+- Main risks and unknowns
 
-- High-level architecture.
-- Key technology decisions.
-- Top technical risks.
+This ensures there are no hidden technical surprises later.
 
-## D4 — MVP and phases
+---
 
-Goal: Reduce scope and plan delivery.
+## D4 — MVP and Phases
 
-Outputs:
+**Goal:** Reduce scope and plan delivery safely.
 
-- MVP definition.
-- Explicit out-of-scope list.
-- Phase 2/3 roadmap.
+**We define:**
+- What the MVP includes
+- What is explicitly out of scope
+- What could come later (Phase 2 / Phase 3)
+
+This step protects the project from overbuilding too early.
+
+---
 
 ## D5 — Estimation
 
-Goal: Provide a transparent range, not a false promise.
+**Goal:** Provide an honest range, not a fixed promise.
 
-Outputs:
+**We define:**
+- Best-case and worst-case estimates
+- Known unknowns and required research (spikes)
+- Risk buffers and assumptions
 
-- Best and worst case range.
-- Unknowns and needed spikes.
-- Risk buffers.
+Estimates are transparent and realistic.
 
-## D6 — Proposal-ready plan
+---
 
-Goal: Convert decisions into a plan the client can approve.
+## D6 — Proposal-Ready Plan
 
-Outputs:
+**Goal:** Turn decisions into a clear plan the client can approve.
 
-- Milestones and acceptance criteria.
-- Assumptions and exclusions.
-- Change-control rule.
+**We define:**
+- Milestones and acceptance criteria
+- Assumptions and exclusions
+- How scope changes are handled
 
-## 🧱 Exit criteria
+At this point, the client has a complete, actionable plan.
+
+---
+
+## What Discovery Produces
+
+By the end of Discovery, the client receives:
+
+- Clear problem definition and success criteria
+- A well-defined MVP and phased roadmap
+- Documented technical direction
+- Transparent estimate range
+- A proposal-ready execution plan
+
+All outputs belong to the client.
+
+---
+
+## 🧱 Exit Criteria
 
 Discovery is complete when:
 
-- D1 through D6 exist and are agreed.
-- The client can continue with or without Feel Coding.
+- All decisions from D1 to D6 are documented and agreed
+- The client can confidently move forward:
+  - With Feel Coding, **or**
+  - With another team, using the same materials
 
-Next: [Execute (SDLC)](execute.md)
+Only after this point does execution begin.
 
-Template: [Decide Template](../templates/decide-template.md)
+---
+
+**Next:** [Execute (SDLC)](execute.md)
+**Template:** [Decide Template](../templates/decide-template.md)

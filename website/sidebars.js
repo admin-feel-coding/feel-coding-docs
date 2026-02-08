@@ -28,7 +28,6 @@ const sidebars = {
       label: 'Delivery',
       items: [
         'delivery/pricing',
-        'delivery/lifecycle',
         'delivery/standards',
         'delivery/handoff',
       ],

@@ -16,7 +16,7 @@ Use this list to get aligned in your first week. Your first deliverable is under
 
 ## 📅 Day 2: Delivery model
 
-- Read [Project Lifecycle](../delivery/lifecycle.md) and summarize each stage in your own words.
+- Read the [D2E Framework](../framework/d2e.md) and summarize each phase in your own words.
 - Review the [Glossary](../reference/glossary.md) and add any missing terms you notice.
 
 ## 📅 Day 3: Contribution habits

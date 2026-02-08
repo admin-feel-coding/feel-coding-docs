@@ -27,7 +27,7 @@ If you are new to Feel Coding, follow this reading order:
 
 - **Company** — Bible, vision, principles, engagement models, onboarding checklist
 - **Framework** — D2E delivery framework (Decide, Execute, Operate)
-- **Delivery** — Pricing, project lifecycle, standards, handoff checklist
+- **Delivery** — Pricing, standards, handoff checklist
 - **Templates** — Decide, Execute, and Operate templates
 - **Reference** — Glossary of terms
 
