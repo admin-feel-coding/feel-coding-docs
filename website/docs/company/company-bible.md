@@ -10,7 +10,7 @@ This document is the single source of truth for how Feel Coding operates. It def
 
 If something contradicts this document, this document wins.
 
-## ✅ Principles
+## ✅ Core principles
 
 ### Clarity over cleverness
 
@@ -32,6 +32,14 @@ We build trust by being visible. Clients see our work as it happens. Teams share
 
 We choose the simplest approach that solves the problem. We do not add complexity for the sake of sophistication. Every layer of abstraction must earn its place.
 
+### Independence over dependency
+
+We leave clients able to continue without us. We build capability, not reliance.
+
+### Feedback is a gift
+
+We give feedback directly and respectfully. We receive it with openness.
+
 ## 🧭 How we work
 
 - We communicate in writing as the primary medium. Meetings support written decisions, not replace them.
@@ -46,7 +54,7 @@ We choose the simplest approach that solves the problem. We do not add complexit
 - We do not create dependency. We create capability.
 - We are honest about what we know and what we do not know.
 
-## 🤝 How we treat each other
+## 🧑‍🤝‍🧑 How we treat each other
 
 - We give direct, respectful feedback.
 - We assume good intent.

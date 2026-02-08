@@ -9,17 +9,11 @@ const sidebars = {
       label: 'Home',
     },
     {
-      type: 'doc',
-      id: 'start-here',
-      label: 'Start Here',
-    },
-    {
       type: 'category',
       label: 'Company',
       items: [
         'company/company-bible',
         'company/vision-and-mission',
-        'company/core-principles',
         'company/engagement-models',
         'company/new-engineer-checklist',
       ],
@@ -43,10 +37,9 @@ const sidebars = {
       type: 'category',
       label: 'Templates',
       items: [
-        'templates/project-readme',
-        'templates/decision-record',
-        'templates/discovery-summary',
-        'templates/sdlc-phase-plan',
+        'templates/decide-template',
+        'templates/execute-template',
+        'templates/operate-template',
       ],
     },
     {

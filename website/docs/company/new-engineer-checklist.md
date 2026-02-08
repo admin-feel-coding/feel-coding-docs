@@ -21,9 +21,9 @@ Use this list to get aligned in your first week. Your first deliverable is under
 
 ## 📅 Day 3: Contribution habits
 
-- Write a short decision record using the [Decision Record Template](../templates/decision-record.md).
-- Draft a Discovery Summary using the [Discovery Summary Template](../templates/discovery-summary.md).
-- Draft a Phase Plan using the [SDLC Phase Plan Template](../templates/sdlc-phase-plan.md).
+- Draft a Discovery Summary using the [Decide Template](../templates/decide-template.md).
+- Draft a Phase Plan using the [Execute Template](../templates/execute-template.md).
+- Review the [Operate Template](../templates/operate-template.md).
 
 ## ✅ By end of week
 

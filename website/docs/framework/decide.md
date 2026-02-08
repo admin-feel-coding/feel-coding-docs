@@ -96,3 +96,5 @@ Discovery is complete when:
 - The client can continue with or without Feel Coding.
 
 Next: [Execute (SDLC)](execute.md)
+
+Template: [Decide Template](../templates/decide-template.md)

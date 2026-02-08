@@ -61,3 +61,5 @@ Outputs:
 Operate is typically hourly or retainer-based with a defined response window.
 
 Next: [Pricing](../delivery/pricing.md)
+
+Template: [Operate Template](../templates/operate-template.md)

@@ -10,7 +10,7 @@ D2E stands for **Decide, Execute, Operate**. It is the delivery framework Feel C
 
 The framework separates decisions from execution. Each phase is independent, documented, and produces concrete outputs that the client owns. A client can stop after any phase and still keep everything they need to continue on their own.
 
-For the principles that guide how we operate, see [Core Principles](../company/core-principles.md).
+For the principles that guide how we operate, see [Company Bible](../company/company-bible.md).
 
 > Discovery decides. SDLC executes. Ops stabilizes.
 

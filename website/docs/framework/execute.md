@@ -86,3 +86,5 @@ Outputs:
 Execution ends when the MVP is delivered or the client stops.
 
 Next: [Operate](operate.md)
+
+Template: [Execute Template](../templates/execute-template.md)
